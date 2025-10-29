@@ -1,1 +1,1002 @@
-Fecha;Comuna;Validaciones;Buses_operativos;D’a01-08-2025;Santiago;35795;420;Laboral01-08-2025;Maipœ;96820;764;Laboral01-08-2025;Puente Alto;26265;616;Laboral01-08-2025;La Florida;57194;608;Laboral01-08-2025;„u–oa;64131;280;Laboral01-08-2025;Las Condes;87221;458;Laboral02-08-2025;Santiago;5769;493;S‡bado02-08-2025;Maipœ;7433;341;S‡bado02-08-2025;Puente Alto;22568;609;S‡bado02-08-2025;La Florida;24769;171;S‡bado02-08-2025;„u–oa;11396;710;S‡bado02-08-2025;Las Condes;30658;660;S‡bado03-08-2025;Santiago;23431;625;Domingo03-08-2025;Maipœ;7747;339;Domingo03-08-2025;Puente Alto;24118;712;Domingo04-08-2025;San Bernardo;46437;162;laboral04-08-2025;Estaci—n Central;5593;562;laboral04-08-2025;Santiago;42971;712;laboral04-08-2025;La Florida;38744;306;laboral04-08-2025;Puente Alto;42681;632;laboral05-08-2025;Independencia;20595;245;laboral05-08-2025;El bosque;36955;530;laboral05-08-2025;Cerronavia;25000;221;laboral05-08-2025;Espejo;55061;191;laboral05-08-2025;Maipu;39691;169;laboral06-08-2025;Vitacura;13293;330;laboral06-08-2025;San Ram—n;21724;771;laboral06-08-2025;Santiago;28271;363;laboral06-08-2025;Maipœ;8188;771;laboral06-08-2025;Puente Alto;32913;500;laboral07-08-2025;La Florida;46014;464;laboral07-08-2025;„u–oa;11686;170;laboral07-08-2025;Las Condes;35518;766;laboral07-08-2025;Santiago;59101;721;laboral07-08-2025;Maipœ;37322;706;laboral08-08-2025;Puente Alto;29882;181;laboral08-08-2025;La Florida;30203;637;laboral08-08-2025;„u–oa;22736;215;laboral08-08-2025;Las Condes;59189;580;laboral08-08-2025;Santiago;20831;601;laboral09-08-2025;Maipœ;21680;636;s‡bado09-08-2025;Puente Alto;19522;733;s‡bado09-08-2025;San Bernardo;33670;238;s‡bado09-08-2025;Estaci—n Central;50273;529;s‡bado09-08-2025;Santiago;47945;526;s‡bado10-08-2025;La Florida;37476;608;domingo10-08-2025;Puente Alto;18062;387;domingo10-08-2025;Independencia;43242;420;domingo10-08-2025;El bosque;22047;518;domingo10-08-2025;Cerronavia;15980;605;domingo11-08-2025;Espejo;59249;683;laboral11-08-2025;Maipu;21011;428;laboral11-08-2025;Vitacura;38608;374;laboral11-08-2025;San Ram—n;55395;347;laboral11-08-2025;Santiago;46331;589;laboral12-08-2025;Maipœ;35161;315;laboral12-08-2025;Puente Alto;25189;535;laboral12-08-2025;La Florida;8626;272;laboral12-08-2025;„u–oa;9442;680;laboral12-08-2025;Las Condes;58019;612;laboral13-08-2025;Santiago;7010;394;laboral13-08-2025;Maipœ;11231;318;laboral13-08-2025;Puente Alto;16709;357;laboral13-08-2025;La Florida;7909;540;laboral13-08-2025;„u–oa;25116;420;laboral14-08-2025;Las Condes;38853;488;laboral14-08-2025;Santiago;40067;557;laboral14-08-2025;Maipœ;49437;407;laboral14-08-2025;Puente Alto;43979;765;laboral14-08-2025;San Bernardo;40966;659;laboral15-08-2025;Estaci—n Central;54959;523;laboral15-08-2025;Santiago;27795;408;laboral15-08-2025;La Florida;12127;521;laboral15-08-2025;Puente Alto;40560;221;laboral15-08-2025;Independencia;47928;788;laboral16-08-2025;El bosque;26474;522;s‡bado16-08-2025;Cerronavia;53531;512;s‡bado16-08-2025;Espejo;32217;277;s‡bado16-08-2025;Maipu;32542;698;s‡bado16-08-2025;Vitacura;19132;635;s‡bado17-08-2025;San Ram—n;24531;291;domingo17-08-2025;Santiago;40236;355;domingo17-08-2025;Maipœ;49879;232;domingo17-08-2025;Puente Alto;11091;690;domingo17-08-2025;La Florida;39341;774;domingo18-08-2025;„u–oa;58294;327;laboral18-08-2025;Las Condes;16195;418;laboral18-08-2025;Santiago;24670;259;laboral18-08-2025;Maipœ;47643;548;laboral18-08-2025;Puente Alto;12225;388;laboral19-08-2025;La Florida;6264;751;laboral19-08-2025;„u–oa;19053;257;laboral19-08-2025;Las Condes;45244;527;laboral19-08-2025;Santiago;41499;623;laboral19-08-2025;Maipœ;51240;339;laboral20-08-2025;Puente Alto;10440;769;laboral20-08-2025;San Bernardo;11067;789;laboral20-08-2025;Estaci—n Central;24618;520;laboral20-08-2025;Santiago;23505;800;laboral20-08-2025;La Florida;47832;449;laboral21-08-2025;Puente Alto;10536;261;laboral21-08-2025;Independencia;43825;329;laboral21-08-2025;El bosque;13060;778;laboral21-08-2025;Cerronavia;14644;438;laboral21-08-2025;Espejo;23734;761;laboral22-08-2025;Maipu;42050;377;laboral22-08-2025;Vitacura;50130;333;laboral22-08-2025;San Ram—n;10457;305;laboral22-08-2025;Santiago;58441;716;laboral22-08-2025;Maipœ;13708;171;laboral23-08-2025;Puente Alto;8918;500;s‡bado23-08-2025;La Florida;33523;736;s‡bado23-08-2025;„u–oa;8425;585;s‡bado23-08-2025;Las Condes;57627;763;s‡bado23-08-2025;Santiago;6526;505;s‡bado24-08-2025;Maipœ;33442;522;domingo24-08-2025;Puente Alto;18386;224;domingo24-08-2025;La Florida;39539;431;domingo24-08-2025;„u–oa;54218;704;domingo24-08-2025;Las Condes;56398;724;domingo25-08-2025;Santiago;59431;621;laboral25-08-2025;Maipœ;26390;580;laboral25-08-2025;Puente Alto;45836;196;laboral25-08-2025;San Bernardo;44233;192;laboral25-08-2025;Estaci—n Central;14617;401;laboral26-08-2025;Santiago;14542;309;laboral26-08-2025;La Florida;44781;619;laboral26-08-2025;Puente Alto;35408;396;laboral26-08-2025;Independencia;33347;189;laboral26-08-2025;El bosque;55230;788;laboral27-08-2025;Cerronavia;34786;413;laboral27-08-2025;Espejo;46013;661;laboral27-08-2025;Maipu;35290;303;laboral27-08-2025;Vitacura;36230;507;laboral27-08-2025;San Ram—n;29820;167;laboral28-08-2025;Santiago;58890;309;laboral28-08-2025;Maipœ;45722;598;laboral28-08-2025;Puente Alto;13158;793;laboral28-08-2025;La Florida;28133;307;laboral28-08-2025;„u–oa;36284;789;laboral29-08-2025;Las Condes;22000;332;laboral29-08-2025;Santiago;44157;214;laboral29-08-2025;Maipœ;24516;398;laboral29-08-2025;Puente Alto;45066;287;laboral29-08-2025;La Florida;39344;217;laboral30-08-2025;„u–oa;26579;298;s‡bado30-08-2025;Las Condes;39976;628;s‡bado30-08-2025;Santiago;54128;369;s‡bado30-08-2025;Maipœ;55543;512;s‡bado30-08-2025;Puente Alto;17350;214;s‡bado31-08-2025;San Bernardo;29180;409;domingo31-08-2025;Estaci—n Central;21911;443;domingo31-08-2025;Santiago;32020;505;domingo31-08-2025;La Florida;24374;401;domingo31-08-2025;Puente Alto;33970;526;domingo01-09-2025;Independencia;45839;690;laboral01-09-2025;El bosque;25459;248;laboral01-09-2025;Cerronavia;26911;651;laboral01-09-2025;Espejo;56004;204;laboral01-09-2025;Maipu;59879;459;laboral02-09-2025;Vitacura;37124;723;laboral02-09-2025;San Ram—n;41297;753;laboral02-09-2025;Santiago;45396;444;laboral02-09-2025;Maipœ;7975;732;laboral02-09-2025;Puente Alto;43719;351;laboral03-09-2025;La Florida;14282;460;laboral03-09-2025;„u–oa;45062;205;laboral03-09-2025;Las Condes;13151;326;laboral03-09-2025;Santiago;54851;614;laboral03-09-2025;Maipœ;9727;194;laboral04-09-2025;Puente Alto;38088;567;laboral04-09-2025;La Florida;44650;629;laboral04-09-2025;„u–oa;13599;682;laboral04-09-2025;Las Condes;57842;704;laboral04-09-2025;Santiago;12296;627;laboral05-09-2025;Maipœ;18926;245;laboral05-09-2025;Puente Alto;38355;400;laboral05-09-2025;San Bernardo;39824;532;laboral05-09-2025;Estaci—n Central;28891;303;laboral05-09-2025;Santiago;8282;502;laboral06-09-2025;La Florida;20908;474;s‡bado06-09-2025;Puente Alto;42867;309;s‡bado06-09-2025;Independencia;52065;745;s‡bado06-09-2025;El bosque;12238;493;s‡bado06-09-2025;Cerronavia;38220;188;s‡bado07-09-2025;Espejo;7772;350;domingo07-09-2025;Maipu;49325;622;domingo07-09-2025;Vitacura;44164;331;domingo07-09-2025;San Ram—n;23605;663;domingo07-09-2025;Santiago;58263;523;domingo08-09-2025;Maipœ;52143;257;laboral08-09-2025;Puente Alto;21776;165;laboral08-09-2025;La Florida;21712;330;laboral08-09-2025;„u–oa;18703;541;laboral08-09-2025;Las Condes;34788;375;laboral09-09-2025;Santiago;58763;256;laboral09-09-2025;Maipœ;46630;274;laboral09-09-2025;Puente Alto;20543;773;laboral09-09-2025;La Florida;42644;491;laboral09-09-2025;„u–oa;43733;210;laboral10-09-2025;Las Condes;43382;763;laboral10-09-2025;Santiago;21484;545;laboral10-09-2025;Maipœ;33109;519;laboral10-09-2025;Puente Alto;50199;362;laboral10-09-2025;San Bernardo;30353;172;laboral11-09-2025;Estaci—n Central;27127;329;laboral11-09-2025;Santiago;59410;702;laboral11-09-2025;La Florida;55093;699;laboral11-09-2025;Puente Alto;40248;418;laboral11-09-2025;Independencia;27751;328;laboral12-09-2025;El bosque;6277;424;laboral12-09-2025;Cerronavia;37262;426;laboral12-09-2025;Espejo;30670;493;laboral12-09-2025;Maipu;51785;469;laboral12-09-2025;Vitacura;24059;378;laboral13-09-2025;San Ram—n;17453;179;s‡bado13-09-2025;Santiago;48518;611;s‡bado13-09-2025;Maipœ;37377;437;s‡bado13-09-2025;Puente Alto;5434;528;s‡bado13-09-2025;La Florida;24882;192;s‡bado14-09-2025;„u–oa;28504;390;domingo14-09-2025;Las Condes;34901;249;domingo14-09-2025;Santiago;17734;545;domingo14-09-2025;Maipœ;43062;755;domingo14-09-2025;Puente Alto;44411;683;domingo15-09-2025;La Florida;48993;360;laboral15-09-2025;„u–oa;59044;750;laboral15-09-2025;Las Condes;44880;657;laboral15-09-2025;Santiago;11435;725;laboral15-09-2025;Maipœ;8128;174;laboral16-09-2025;Puente Alto;9703;678;laboral16-09-2025;San Bernardo;12886;477;laboral16-09-2025;Estaci—n Central;38228;510;laboral16-09-2025;Santiago;16723;305;laboral16-09-2025;La Florida;22663;276;laboral17-09-2025;Puente Alto;9755;283;laboral17-09-2025;Independencia;41257;556;laboral17-09-2025;El bosque;41740;682;laboral17-09-2025;Cerronavia;50667;593;laboral17-09-2025;Espejo;23922;694;laboral18-09-2025;Maipu;35277;259;laboral18-09-2025;Vitacura;39815;606;laboral18-09-2025;San Ram—n;54521;400;laboral18-09-2025;Santiago;52467;331;laboral18-09-2025;Maipœ;35121;295;laboral19-09-2025;Puente Alto;30279;636;laboral19-09-2025;La Florida;6233;693;laboral19-09-2025;„u–oa;9437;586;laboral19-09-2025;Las Condes;33237;437;laboral19-09-2025;Santiago;7674;628;laboral20-09-2025;Maipœ;34767;428;s‡bado20-09-2025;Puente Alto;50953;622;s‡bado20-09-2025;La Florida;22334;498;s‡bado20-09-2025;„u–oa;50185;794;s‡bado20-09-2025;Las Condes;40370;559;s‡bado21-09-2025;Santiago;27100;369;domingo21-09-2025;Maipœ;59632;616;domingo21-09-2025;Puente Alto;31459;715;domingo21-09-2025;San Bernardo;44538;504;domingo21-09-2025;Estaci—n Central;57774;368;domingo22-09-2025;Santiago;18742;629;laboral22-09-2025;La Florida;21569;731;laboral22-09-2025;Puente Alto;24633;498;laboral22-09-2025;Independencia;18313;648;laboral22-09-2025;El bosque;35442;157;laboral23-09-2025;Cerronavia;55257;524;laboral23-09-2025;Espejo;34587;295;laboral23-09-2025;Maipu;8003;504;laboral23-09-2025;Vitacura;20662;510;laboral23-09-2025;San Ram—n;37819;709;laboral24-09-2025;Santiago;56113;789;laboral24-09-2025;Maipœ;32083;244;laboral24-09-2025;Puente Alto;26795;726;laboral24-09-2025;La Florida;52724;173;laboral24-09-2025;„u–oa;32776;636;laboral25-09-2025;Las Condes;22426;150;laboral25-09-2025;Santiago;44110;608;laboral25-09-2025;Maipœ;40512;448;laboral25-09-2025;Puente Alto;37413;692;laboral25-09-2025;La Florida;52307;559;laboral26-09-2025;„u–oa;18237;235;laboral26-09-2025;Las Condes;50143;763;laboral26-09-2025;Santiago;50606;577;laboral26-09-2025;Maipœ;37578;643;laboral26-09-2025;Puente Alto;17927;603;laboral27-09-2025;San Bernardo;5211;390;s‡bado27-09-2025;Estaci—n Central;26937;671;s‡bado27-09-2025;Santiago;46426;743;s‡bado27-09-2025;La Florida;13996;669;s‡bado27-09-2025;Puente Alto;42064;220;s‡bado28-09-2025;Independencia;24512;386;domingo28-09-2025;El bosque;54929;175;domingo28-09-2025;Cerronavia;30270;499;domingo28-09-2025;Espejo;50945;161;domingo28-09-2025;Maipu;52960;647;domingo29-09-2025;Vitacura;17376;612;laboral29-09-2025;San Ram—n;32753;655;laboral29-09-2025;Santiago;18641;413;laboral29-09-2025;Maipœ;15084;268;laboral29-09-2025;Puente Alto;54747;485;laboral30-09-2025;La Florida;5045;548;laboral30-09-2025;„u–oa;6721;430;laboral30-09-2025;Las Condes;48360;237;laboral30-09-2025;Santiago;12680;534;laboral30-09-2025;Maipœ;33385;411;laboral01-10-2025;Puente Alto;45181;241;laboral01-10-2025;La Florida;43879;430;laboral01-10-2025;„u–oa;59546;387;laboral01-10-2025;Las Condes;31414;539;laboral01-10-2025;Santiago;39744;536;laboral02-10-2025;Maipœ;35391;373;laboral02-10-2025;Puente Alto;47598;202;laboral02-10-2025;San Bernardo;36908;166;laboral02-10-2025;Estaci—n Central;33121;391;laboral02-10-2025;Santiago;23326;212;laboral03-10-2025;La Florida;25425;182;laboral03-10-2025;Puente Alto;16917;410;laboral03-10-2025;Independencia;57265;692;laboral03-10-2025;El bosque;38991;230;laboral03-10-2025;Cerronavia;5785;498;laboral04-10-2025;Espejo;11549;551;s‡bado04-10-2025;Maipu;28379;174;s‡bado04-10-2025;Vitacura;32118;406;s‡bado04-10-2025;San Ram—n;32699;383;s‡bado04-10-2025;Santiago;40578;655;s‡bado05-10-2025;Maipœ;52305;517;domingo05-10-2025;Puente Alto;43541;159;domingo05-10-2025;La Florida;51646;698;domingo05-10-2025;„u–oa;23506;774;domingo05-10-2025;Las Condes;52672;505;domingo06-10-2025;Santiago;32675;657;laboral06-10-2025;Maipœ;47588;653;laboral06-10-2025;Puente Alto;41220;172;laboral06-10-2025;La Florida;41988;679;laboral06-10-2025;„u–oa;38868;518;laboral07-10-2025;Las Condes;33847;600;laboral07-10-2025;Santiago;58778;765;laboral07-10-2025;Maipœ;55761;468;laboral07-10-2025;Puente Alto;35886;229;laboral07-10-2025;San Bernardo;12488;176;laboral08-10-2025;Estaci—n Central;12888;159;laboral08-10-2025;Santiago;52954;268;laboral08-10-2025;La Florida;58705;284;laboral08-10-2025;Puente Alto;37902;172;laboral08-10-2025;Independencia;41455;525;laboral09-10-2025;El bosque;29070;595;laboral09-10-2025;Cerronavia;51009;726;laboral09-10-2025;Espejo;22975;471;laboral09-10-2025;Maipu;14466;383;laboral09-10-2025;Vitacura;49631;323;laboral10-10-2025;San Ram—n;26007;204;laboral10-10-2025;Santiago;8713;794;laboral10-10-2025;Maipœ;33436;607;laboral10-10-2025;Puente Alto;20577;320;laboral10-10-2025;La Florida;44353;223;laboral11-10-2025;„u–oa;44520;630;s‡bado11-10-2025;Las Condes;6713;680;s‡bado11-10-2025;Santiago;25028;253;s‡bado11-10-2025;Maipœ;12886;484;s‡bado11-10-2025;Puente Alto;56015;476;s‡bado12-10-2025;La Florida;17138;712;domingo12-10-2025;„u–oa;32191;762;domingo12-10-2025;Las Condes;33038;501;domingo12-10-2025;Santiago;32521;441;domingo12-10-2025;Maipœ;37912;494;domingo13-10-2025;Puente Alto;33978;244;laboral13-10-2025;San Bernardo;23769;162;laboral13-10-2025;Estaci—n Central;56895;675;laboral13-10-2025;Santiago;9253;220;laboral13-10-2025;La Florida;55482;376;laboral14-10-2025;Puente Alto;25582;754;laboral14-10-2025;Independencia;12016;539;laboral14-10-2025;El bosque;6627;199;laboral14-10-2025;Cerronavia;52264;651;laboral14-10-2025;Espejo;35213;286;laboral15-10-2025;Maipu;11184;698;laboral15-10-2025;Vitacura;18260;619;laboral15-10-2025;San Ram—n;47293;447;laboral15-10-2025;Santiago;40971;596;laboral15-10-2025;Maipœ;50188;243;laboral16-10-2025;Puente Alto;41428;676;laboral16-10-2025;La Florida;14334;271;laboral16-10-2025;„u–oa;40268;787;laboral16-10-2025;Las Condes;39132;694;laboral16-10-2025;Santiago;53759;209;laboral17-10-2025;Maipœ;15494;663;laboral17-10-2025;Puente Alto;43312;540;laboral17-10-2025;La Florida;53081;166;laboral17-10-2025;„u–oa;38393;324;laboral17-10-2025;Las Condes;36244;675;laboral18-10-2025;Santiago;47183;261;s‡bado18-10-2025;Maipœ;21650;581;s‡bado18-10-2025;Puente Alto;19243;656;s‡bado18-10-2025;San Bernardo;31117;626;s‡bado18-10-2025;Estaci—n Central;45971;190;s‡bado19-10-2025;Santiago;38897;435;domingo19-10-2025;La Florida;34677;459;domingo19-10-2025;Puente Alto;41465;436;domingo19-10-2025;Independencia;24150;599;domingo19-10-2025;El bosque;18753;494;domingo20-10-2025;Cerronavia;33203;493;laboral20-10-2025;Espejo;53195;767;laboral20-10-2025;Maipu;17926;569;laboral20-10-2025;Vitacura;54077;625;laboral20-10-2025;San Ram—n;50962;654;laboral21-10-2025;Santiago;27928;783;laboral21-10-2025;Maipœ;15222;598;laboral21-10-2025;Puente Alto;51541;692;laboral21-10-2025;La Florida;47448;348;laboral21-10-2025;„u–oa;9150;647;laboral22-10-2025;Las Condes;36186;166;laboral22-10-2025;Santiago;16106;699;laboral22-10-2025;Maipœ;59915;659;laboral22-10-2025;Puente Alto;48105;410;laboral22-10-2025;La Florida;16040;285;laboral23-10-2025;„u–oa;28867;320;laboral23-10-2025;Las Condes;32477;414;laboral23-10-2025;Santiago;33317;745;laboral23-10-2025;Maipœ;27205;751;laboral23-10-2025;Puente Alto;43024;183;laboral24-10-2025;San Bernardo;37310;304;laboral24-10-2025;Estaci—n Central;42528;750;laboral24-10-2025;Santiago;57877;694;laboral24-10-2025;La Florida;12613;295;laboral24-10-2025;Puente Alto;10752;197;laboral25-10-2025;Independencia;23311;409;s‡bado25-10-2025;El bosque;21063;725;s‡bado25-10-2025;Cerronavia;27942;443;s‡bado25-10-2025;Espejo;13080;554;s‡bado25-10-2025;Maipu;39051;155;s‡bado26-10-2025;Vitacura;34500;542;domingo26-10-2025;San Ram—n;55781;233;domingo26-10-2025;Santiago;35786;350;domingo26-10-2025;Maipœ;30583;314;domingo26-10-2025;Puente Alto;29173;742;domingo27-10-2025;La Florida;11450;547;laboral27-10-2025;„u–oa;48000;523;laboral27-10-2025;Las Condes;38311;445;laboral27-10-2025;Santiago;23247;757;laboral27-10-2025;Maipœ;24835;340;laboral28-10-2025;Puente Alto;23644;684;laboral28-10-2025;La Florida;27785;200;laboral28-10-2025;„u–oa;44372;775;laboral28-10-2025;Las Condes;51328;765;laboral28-10-2025;Santiago;41854;775;laboral29-10-2025;Maipœ;5260;525;laboral29-10-2025;Puente Alto;56330;262;laboral29-10-2025;San Bernardo;21049;428;laboral29-10-2025;Estaci—n Central;23236;547;laboral29-10-2025;Santiago;47652;225;laboral30-10-2025;La Florida;17006;756;laboral30-10-2025;Puente Alto;57578;404;laboral30-10-2025;Independencia;36002;353;laboral30-10-2025;El bosque;29690;339;laboral30-10-2025;Cerronavia;26671;283;laboral31-10-2025;Espejo;47870;610;laboral31-10-2025;Maipu;23839;306;laboral31-10-2025;Vitacura;40295;302;laboral31-10-2025;San Ram—n;18245;481;laboral31-10-2025;Santiago;56154;519;laboral01-11-2025;Maipœ;15482;217;s‡bado01-11-2025;Puente Alto;18011;156;s‡bado01-11-2025;La Florida;27100;270;s‡bado01-11-2025;„u–oa;14251;341;s‡bado01-11-2025;Las Condes;47074;598;s‡bado02-11-2025;Santiago;44707;388;domingo02-11-2025;Maipœ;40710;719;domingo02-11-2025;Puente Alto;37518;714;domingo02-11-2025;La Florida;36952;746;domingo02-11-2025;„u–oa;33398;468;domingo03-11-2025;Las Condes;6938;784;laboral03-11-2025;Santiago;54369;714;laboral03-11-2025;Maipœ;55110;659;laboral03-11-2025;Puente Alto;23623;264;laboral03-11-2025;San Bernardo;56029;662;laboral04-11-2025;Estaci—n Central;15407;311;laboral04-11-2025;Santiago;13360;522;laboral04-11-2025;La Florida;43373;769;laboral04-11-2025;Puente Alto;15404;704;laboral04-11-2025;Independencia;36933;632;laboral05-11-2025;El bosque;17951;427;laboral05-11-2025;Cerronavia;44628;475;laboral05-11-2025;Espejo;8910;765;laboral05-11-2025;Maipu;23424;427;laboral05-11-2025;Vitacura;36863;229;laboral06-11-2025;San Ram—n;23506;728;laboral06-11-2025;Santiago;21442;298;laboral06-11-2025;Maipœ;22263;223;laboral06-11-2025;Puente Alto;48973;441;laboral06-11-2025;La Florida;26157;567;laboral07-11-2025;„u–oa;55906;450;laboral07-11-2025;Las Condes;22003;685;laboral07-11-2025;Santiago;53178;406;laboral07-11-2025;Maipœ;26623;383;laboral07-11-2025;Puente Alto;8727;232;laboral08-11-2025;La Florida;25608;348;s‡bado08-11-2025;„u–oa;31458;229;s‡bado08-11-2025;Las Condes;51393;621;s‡bado08-11-2025;Santiago;33922;796;s‡bado08-11-2025;Maipœ;52612;243;s‡bado09-11-2025;Puente Alto;58652;330;domingo09-11-2025;San Bernardo;15785;604;domingo09-11-2025;Estaci—n Central;54569;535;domingo09-11-2025;Santiago;32049;159;domingo09-11-2025;La Florida;53356;721;domingo10-11-2025;Puente Alto;43803;280;laboral10-11-2025;Independencia;35357;348;laboral10-11-2025;El bosque;48265;500;laboral10-11-2025;Cerronavia;8266;403;laboral10-11-2025;Espejo;9613;156;laboral11-11-2025;Maipu;21642;407;laboral11-11-2025;Vitacura;58391;685;laboral11-11-2025;San Ram—n;31922;731;laboral11-11-2025;Santiago;48308;634;laboral11-11-2025;Maipœ;25569;684;laboral12-11-2025;Puente Alto;39438;184;laboral12-11-2025;La Florida;51064;500;laboral12-11-2025;„u–oa;57085;537;laboral12-11-2025;Las Condes;29397;471;laboral12-11-2025;Santiago;25853;560;laboral13-11-2025;Maipœ;57602;589;laboral13-11-2025;Puente Alto;42016;451;laboral13-11-2025;La Florida;41046;566;laboral13-11-2025;„u–oa;53935;376;laboral13-11-2025;Las Condes;43472;656;laboral14-11-2025;Santiago;21407;258;laboral14-11-2025;Maipœ;35171;271;laboral14-11-2025;Puente Alto;55183;286;laboral14-11-2025;San Bernardo;32216;451;laboral14-11-2025;Estaci—n Central;48234;465;laboral15-11-2025;Santiago;12414;373;s‡bado15-11-2025;La Florida;44124;659;s‡bado15-11-2025;Puente Alto;39476;576;s‡bado15-11-2025;Independencia;12562;304;s‡bado15-11-2025;El bosque;11623;638;s‡bado16-11-2025;Cerronavia;12220;247;domingo16-11-2025;Espejo;59515;414;domingo16-11-2025;Maipu;37049;722;domingo16-11-2025;Vitacura;15092;390;domingo16-11-2025;San Ram—n;16991;323;domingo17-11-2025;Santiago;50811;626;laboral17-11-2025;Maipœ;53475;210;laboral17-11-2025;Puente Alto;12181;155;laboral17-11-2025;La Florida;42526;210;laboral17-11-2025;„u–oa;8701;725;laboral18-11-2025;Las Condes;36076;703;laboral18-11-2025;Santiago;28294;206;laboral18-11-2025;Maipœ;24711;543;laboral18-11-2025;Puente Alto;9513;239;laboral18-11-2025;La Florida;12660;510;laboral19-11-2025;„u–oa;28413;651;laboral19-11-2025;Las Condes;31440;268;laboral19-11-2025;Santiago;5807;324;laboral19-11-2025;Maipœ;30872;481;laboral19-11-2025;Puente Alto;23262;796;laboral20-11-2025;San Bernardo;55312;618;laboral20-11-2025;Estaci—n Central;5167;740;laboral20-11-2025;Santiago;26226;507;laboral20-11-2025;La Florida;44087;362;laboral20-11-2025;Puente Alto;53392;278;laboral21-11-2025;Independencia;48555;403;laboral21-11-2025;El bosque;44877;218;laboral21-11-2025;Cerronavia;5939;492;laboral21-11-2025;Espejo;59106;432;laboral21-11-2025;Maipu;41142;152;laboral22-11-2025;Vitacura;32841;366;s‡bado22-11-2025;San Ram—n;57678;241;s‡bado22-11-2025;Santiago;27506;323;s‡bado22-11-2025;Maipœ;50013;182;s‡bado22-11-2025;Puente Alto;52384;786;s‡bado23-11-2025;La Florida;29116;571;domingo23-11-2025;„u–oa;47235;223;domingo23-11-2025;Las Condes;28890;591;domingo23-11-2025;Santiago;32773;231;domingo23-11-2025;Maipœ;32889;346;domingo24-11-2025;Puente Alto;17258;416;laboral24-11-2025;La Florida;44937;506;laboral24-11-2025;„u–oa;44250;159;laboral24-11-2025;Las Condes;8924;426;laboral24-11-2025;Santiago;5132;413;laboral25-11-2025;Maipœ;9786;504;laboral25-11-2025;Puente Alto;44728;197;laboral25-11-2025;San Bernardo;39555;547;laboral25-11-2025;Estaci—n Central;49910;619;laboral25-11-2025;Santiago;33387;789;laboral26-11-2025;La Florida;32345;686;laboral26-11-2025;Puente Alto;9087;272;laboral26-11-2025;Independencia;57530;552;laboral26-11-2025;El bosque;53497;304;laboral26-11-2025;Cerronavia;39973;543;laboral27-11-2025;Espejo;22869;426;laboral27-11-2025;Maipu;17983;669;laboral27-11-2025;Vitacura;36950;355;laboral27-11-2025;San Ram—n;24851;609;laboral27-11-2025;Santiago;11292;682;laboral28-11-2025;Maipœ;29562;638;laboral28-11-2025;Puente Alto;57773;477;laboral28-11-2025;La Florida;25237;741;laboral28-11-2025;„u–oa;31642;653;laboral28-11-2025;Las Condes;30096;221;laboral29-11-2025;Santiago;46898;300;s‡bado29-11-2025;Maipœ;8566;283;s‡bado29-11-2025;Puente Alto;11831;599;s‡bado29-11-2025;La Florida;5331;501;s‡bado29-11-2025;„u–oa;40894;247;s‡bado30-11-2025;Las Condes;46418;692;domingo30-11-2025;Santiago;45939;281;domingo30-11-2025;Maipœ;22583;370;domingo30-11-2025;Puente Alto;49599;680;domingo30-11-2025;San Bernardo;31450;437;domingo01-12-2025;Estaci—n Central;56478;491;laboral01-12-2025;Santiago;10425;553;laboral01-12-2025;La Florida;49838;260;laboral01-12-2025;Puente Alto;51873;250;laboral01-12-2025;Independencia;49785;528;laboral02-12-2025;El bosque;12614;404;laboral02-12-2025;Cerronavia;47689;773;laboral02-12-2025;Espejo;8783;171;laboral02-12-2025;Maipu;28078;173;laboral02-12-2025;Vitacura;53714;689;laboral03-12-2025;San Ram—n;10247;722;laboral03-12-2025;Santiago;32175;446;laboral03-12-2025;Maipœ;18824;563;laboral03-12-2025;Puente Alto;55117;666;laboral03-12-2025;La Florida;52793;500;laboral04-12-2025;„u–oa;51438;414;laboral04-12-2025;Las Condes;20598;422;laboral04-12-2025;Santiago;28581;570;laboral04-12-2025;Maipœ;44290;327;laboral04-12-2025;Puente Alto;51510;378;laboral05-12-2025;La Florida;21591;799;laboral05-12-2025;„u–oa;58588;729;laboral05-12-2025;Las Condes;52795;559;laboral05-12-2025;Santiago;21093;178;laboral05-12-2025;Maipœ;21481;641;laboral06-12-2025;Puente Alto;51987;641;s‡bado06-12-2025;San Bernardo;9549;782;s‡bado06-12-2025;Estaci—n Central;42264;449;s‡bado06-12-2025;Santiago;21946;464;s‡bado06-12-2025;La Florida;22686;663;s‡bado07-12-2025;Puente Alto;56010;253;domingo07-12-2025;Independencia;42615;254;domingo07-12-2025;El bosque;52294;412;domingo07-12-2025;Cerronavia;22628;531;domingo07-12-2025;Espejo;42774;710;domingo08-12-2025;Maipu;17285;693;laboral08-12-2025;Vitacura;14570;513;laboral08-12-2025;San Ram—n;17821;258;laboral08-12-2025;Santiago;20988;554;laboral08-12-2025;Maipœ;26611;205;laboral09-12-2025;Puente Alto;30815;608;laboral09-12-2025;La Florida;50378;314;laboral09-12-2025;„u–oa;57751;503;laboral09-12-2025;Las Condes;12300;746;laboral09-12-2025;Santiago;50093;421;laboral10-12-2025;Maipœ;5490;573;laboral10-12-2025;Puente Alto;24498;299;laboral10-12-2025;La Florida;6875;748;laboral10-12-2025;„u–oa;48607;464;laboral10-12-2025;Las Condes;53605;556;laboral11-12-2025;Santiago;30176;253;laboral11-12-2025;Maipœ;10096;628;laboral11-12-2025;Puente Alto;11435;252;laboral11-12-2025;San Bernardo;22474;609;laboral11-12-2025;Estaci—n Central;30902;634;laboral12-12-2025;Santiago;27030;232;laboral12-12-2025;La Florida;16048;570;laboral12-12-2025;Puente Alto;31194;437;laboral12-12-2025;Independencia;22619;203;laboral12-12-2025;El bosque;23185;604;laboral13-12-2025;Cerronavia;10057;234;s‡bado13-12-2025;Espejo;26423;365;s‡bado13-12-2025;Maipu;27505;494;s‡bado13-12-2025;Vitacura;42506;794;s‡bado13-12-2025;San Ram—n;10778;670;s‡bado14-12-2025;Santiago;20025;572;domingo14-12-2025;Maipœ;7431;406;domingo14-12-2025;Puente Alto;23041;340;domingo14-12-2025;La Florida;59194;289;domingo14-12-2025;„u–oa;32746;589;domingo15-12-2025;Las Condes;40261;497;laboral15-12-2025;Santiago;28074;767;laboral15-12-2025;Maipœ;51861;425;laboral15-12-2025;Puente Alto;55495;752;laboral15-12-2025;La Florida;46975;569;laboral16-12-2025;„u–oa;32086;480;laboral16-12-2025;Las Condes;10317;410;laboral16-12-2025;Santiago;58333;731;laboral16-12-2025;Maipœ;31370;387;laboral16-12-2025;Puente Alto;40893;246;laboral17-12-2025;San Bernardo;19506;643;laboral17-12-2025;Estaci—n Central;46510;718;laboral17-12-2025;Santiago;31198;786;laboral17-12-2025;La Florida;59689;588;laboral17-12-2025;Puente Alto;58683;484;laboral18-12-2025;Independencia;13060;762;laboral18-12-2025;El bosque;28987;309;laboral18-12-2025;Cerronavia;59092;531;laboral18-12-2025;Espejo;37765;433;laboral18-12-2025;Maipu;25353;206;laboral19-12-2025;Vitacura;13768;596;laboral19-12-2025;San Ram—n;48005;380;laboral19-12-2025;Santiago;37614;282;laboral19-12-2025;Maipœ;14086;201;laboral19-12-2025;Puente Alto;54575;307;laboral20-12-2025;La Florida;24810;408;s‡bado20-12-2025;„u–oa;14415;303;s‡bado20-12-2025;Las Condes;34324;523;s‡bado20-12-2025;Santiago;50271;549;s‡bado20-12-2025;Maipœ;41361;478;s‡bado21-12-2025;Puente Alto;20657;319;domingo21-12-2025;La Florida;46696;512;domingo21-12-2025;„u–oa;13807;664;domingo21-12-2025;Las Condes;12337;266;domingo21-12-2025;Santiago;51956;477;domingo22-12-2025;Maipœ;19384;382;laboral22-12-2025;Puente Alto;13335;165;laboral22-12-2025;San Bernardo;19400;402;laboral22-12-2025;Estaci—n Central;22668;429;laboral22-12-2025;Santiago;28830;188;laboral23-12-2025;La Florida;27389;444;laboral23-12-2025;Puente Alto;48031;672;laboral23-12-2025;Independencia;24628;457;laboral23-12-2025;El bosque;29339;674;laboral23-12-2025;Cerronavia;27786;267;laboral24-12-2025;Espejo;49494;790;laboral24-12-2025;Maipu;55638;285;laboral24-12-2025;Vitacura;18648;740;laboral24-12-2025;San Ram—n;43239;648;laboral24-12-2025;Santiago;5125;417;laboral25-12-2025;Maipœ;22528;321;laboral25-12-2025;Puente Alto;38962;557;laboral25-12-2025;La Florida;37619;366;laboral25-12-2025;„u–oa;21396;757;laboral25-12-2025;Las Condes;17228;582;laboral26-12-2025;Santiago;27186;615;laboral26-12-2025;Maipœ;40776;348;laboral26-12-2025;Puente Alto;11175;337;laboral26-12-2025;La Florida;36323;424;laboral26-12-2025;„u–oa;42475;379;laboral27-12-2025;Las Condes;53292;449;s‡bado27-12-2025;Santiago;17940;258;s‡bado27-12-2025;Maipœ;58132;184;s‡bado27-12-2025;Puente Alto;26876;616;s‡bado27-12-2025;San Bernardo;12343;581;s‡bado28-12-2025;Estaci—n Central;50841;603;domingo28-12-2025;Santiago;7671;233;domingo28-12-2025;La Florida;32821;310;domingo28-12-2025;Puente Alto;57466;206;domingo28-12-2025;Independencia;55890;785;domingo29-12-2025;El bosque;37081;738;laboral29-12-2025;Cerronavia;28789;565;laboral29-12-2025;Espejo;44500;487;laboral29-12-2025;Maipu;37120;517;laboral29-12-2025;Vitacura;52069;207;laboral30-12-2025;San Ram—n;58864;397;laboral30-12-2025;Santiago;33782;456;laboral30-12-2025;Maipœ;12582;630;laboral30-12-2025;Puente Alto;50200;292;laboral30-12-2025;La Florida;35076;206;laboral31-12-2025;„u–oa;42177;359;laboral31-12-2025;Las Condes;16604;605;laboral31-12-2025;Santiago;47472;182;laboral31-12-2025;Maipœ;10276;183;laboral31-12-2025;Puente Alto;15524;746;laboral01-01-2026;La Florida;30781;584;laboral01-01-2026;„u–oa;50319;332;laboral01-01-2026;Las Condes;18858;683;laboral01-01-2026;Santiago;38414;706;laboral01-01-2026;Maipœ;22314;504;laboral02-01-2026;Puente Alto;49584;577;laboral02-01-2026;San Bernardo;24131;494;laboral02-01-2026;Estaci—n Central;24615;736;laboral02-01-2026;Santiago;10056;234;laboral02-01-2026;La Florida;38457;532;laboral03-01-2026;Puente Alto;20513;700;s‡bado03-01-2026;Independencia;13084;759;s‡bado03-01-2026;El bosque;44446;514;s‡bado03-01-2026;Cerronavia;11484;261;s‡bado03-01-2026;Espejo;15173;708;s‡bado04-01-2026;Maipu;18966;497;domingo04-01-2026;Vitacura;22486;208;domingo04-01-2026;San Ram—n;29432;730;domingo04-01-2026;Santiago;46817;618;domingo04-01-2026;Maipœ;36859;473;domingo05-01-2026;Puente Alto;48798;487;laboral05-01-2026;La Florida;28180;357;laboral05-01-2026;„u–oa;27094;321;laboral05-01-2026;Las Condes;7052;414;laboral05-01-2026;Santiago;42244;417;laboral06-01-2026;Maipœ;40718;610;laboral06-01-2026;Puente Alto;50520;788;laboral06-01-2026;La Florida;47309;508;laboral06-01-2026;„u–oa;27627;676;laboral06-01-2026;Las Condes;8533;568;laboral07-01-2026;Santiago;22866;728;laboral07-01-2026;Maipœ;9212;523;laboral07-01-2026;Puente Alto;28529;212;laboral07-01-2026;San Bernardo;11908;494;laboral07-01-2026;Estaci—n Central;50365;559;laboral08-01-2026;Santiago;49902;279;laboral08-01-2026;La Florida;5897;725;laboral08-01-2026;Puente Alto;32165;316;laboral08-01-2026;Independencia;17353;721;laboral08-01-2026;El bosque;16980;565;laboral09-01-2026;Cerronavia;28798;664;laboral09-01-2026;Espejo;54733;380;laboral09-01-2026;Maipu;54092;629;laboral09-01-2026;Vitacura;58360;473;laboral09-01-2026;San Ram—n;20176;194;laboral10-01-2026;Santiago;23719;178;s‡bado10-01-2026;Maipœ;44694;632;s‡bado10-01-2026;Puente Alto;48088;281;s‡bado10-01-2026;La Florida;51748;358;s‡bado10-01-2026;„u–oa;32764;651;s‡bado11-01-2026;Las Condes;24574;210;domingo11-01-2026;Santiago;10198;518;domingo11-01-2026;Maipœ;43061;772;domingo11-01-2026;Puente Alto;18500;584;domingo11-01-2026;La Florida;36954;572;domingo12-01-2026;„u–oa;13456;762;laboral12-01-2026;Las Condes;41404;610;laboral12-01-2026;Santiago;31407;764;laboral12-01-2026;Maipœ;20381;258;laboral12-01-2026;Puente Alto;36318;523;laboral13-01-2026;San Bernardo;18879;331;laboral13-01-2026;Estaci—n Central;39607;567;laboral13-01-2026;Santiago;7474;715;laboral13-01-2026;La Florida;16214;229;laboral13-01-2026;Puente Alto;50687;777;laboral14-01-2026;Independencia;19657;592;laboral14-01-2026;El bosque;16257;232;laboral14-01-2026;Cerronavia;17121;631;laboral14-01-2026;Espejo;52427;445;laboral14-01-2026;Maipu;39396;458;laboral15-01-2026;Vitacura;54003;527;laboral15-01-2026;San Ram—n;27896;447;laboral15-01-2026;Santiago;14750;464;laboral15-01-2026;Maipœ;9072;586;laboral15-01-2026;Puente Alto;30768;673;laboral16-01-2026;La Florida;29402;523;laboral16-01-2026;„u–oa;43813;356;laboral16-01-2026;Las Condes;18438;638;laboral16-01-2026;Santiago;14875;628;laboral16-01-2026;Maipœ;9564;321;laboral17-01-2026;Puente Alto;12642;333;s‡bado17-01-2026;La Florida;17820;310;s‡bado17-01-2026;„u–oa;8891;376;s‡bado17-01-2026;Las Condes;17864;664;s‡bado17-01-2026;Santiago;59563;279;s‡bado18-01-2026;Maipœ;46753;428;domingo18-01-2026;Puente Alto;34307;378;domingo18-01-2026;San Bernardo;58547;608;domingo18-01-2026;Estaci—n Central;46902;792;domingo18-01-2026;Santiago;7329;639;domingo19-01-2026;La Florida;55810;600;laboral19-01-2026;Puente Alto;8428;702;laboral19-01-2026;Independencia;16723;343;laboral19-01-2026;El bosque;33182;756;laboral19-01-2026;Cerronavia;6446;699;laboral20-01-2026;Espejo;41468;277;laboral20-01-2026;Maipu;39027;543;laboral20-01-2026;Vitacura;51797;785;laboral20-01-2026;San Ram—n;57176;321;laboral20-01-2026;Santiago;35724;620;laboral21-01-2026;Maipœ;15882;241;laboral21-01-2026;Puente Alto;49856;718;laboral21-01-2026;La Florida;23245;757;laboral21-01-2026;„u–oa;42336;437;laboral21-01-2026;Las Condes;25333;579;laboral22-01-2026;Santiago;40562;229;laboral22-01-2026;Maipœ;54282;785;laboral22-01-2026;Puente Alto;32393;359;laboral22-01-2026;La Florida;50495;296;laboral22-01-2026;„u–oa;41670;475;laboral23-01-2026;Las Condes;57644;323;laboral23-01-2026;Santiago;38471;529;laboral23-01-2026;Maipœ;8853;390;laboral23-01-2026;Puente Alto;12341;497;laboral23-01-2026;San Bernardo;25996;301;laboral24-01-2026;Estaci—n Central;45147;159;s‡bado24-01-2026;Santiago;59492;162;s‡bado24-01-2026;La Florida;16089;290;s‡bado24-01-2026;Puente Alto;20018;769;s‡bado24-01-2026;Independencia;22416;489;s‡bado25-01-2026;El bosque;41810;177;domingo25-01-2026;Cerronavia;50251;233;domingo25-01-2026;Espejo;12779;290;domingo25-01-2026;Maipu;27725;635;domingo25-01-2026;Vitacura;55263;433;domingo26-01-2026;San Ram—n;9678;596;laboral26-01-2026;Santiago;27558;346;laboral26-01-2026;Maipœ;27108;188;laboral26-01-2026;Puente Alto;31458;619;laboral26-01-2026;La Florida;11635;403;laboral27-01-2026;„u–oa;5873;671;laboral27-01-2026;Las Condes;34960;314;laboral27-01-2026;Santiago;44766;251;laboral27-01-2026;Maipœ;38670;767;laboral27-01-2026;Puente Alto;57995;752;laboral28-01-2026;La Florida;33463;490;laboral28-01-2026;„u–oa;38002;432;laboral28-01-2026;Las Condes;52632;549;laboral28-01-2026;Santiago;58589;793;laboral28-01-2026;Maipœ;25438;194;laboral29-01-2026;Puente Alto;32916;553;laboral29-01-2026;San Bernardo;29820;687;laboral29-01-2026;Estaci—n Central;54231;371;laboral29-01-2026;Santiago;10727;644;laboral29-01-2026;La Florida;43529;299;laboral30-01-2026;Puente Alto;47864;415;laboral30-01-2026;Independencia;25256;249;laboral30-01-2026;El bosque;46540;269;laboral30-01-2026;Cerronavia;34305;732;laboral30-01-2026;Espejo;12499;454;laboral31-01-2026;Maipu;29827;512;s‡bado31-01-2026;Vitacura;41951;431;s‡bado31-01-2026;San Ram—n;18882;346;s‡bado31-01-2026;Santiago;41523;374;s‡bado31-01-2026;Maipœ;26130;241;s‡bado01-02-2026;Puente Alto;36025;590;domingo01-02-2026;La Florida;13939;507;domingo01-02-2026;„u–oa;32926;220;domingo01-02-2026;Las Condes;57863;306;domingo01-02-2026;Santiago;16876;187;domingo02-02-2026;Maipœ;56440;176;laboral02-02-2026;Puente Alto;25476;183;laboral02-02-2026;La Florida;59154;259;laboral02-02-2026;„u–oa;34491;510;laboral02-02-2026;Las Condes;13180;451;laboral03-02-2026;Santiago;23676;732;laboral03-02-2026;Maipœ;40727;384;laboral03-02-2026;Puente Alto;55689;676;laboral03-02-2026;San Bernardo;45173;272;laboral03-02-2026;Estaci—n Central;50429;750;laboral04-02-2026;Santiago;6052;297;laboral04-02-2026;La Florida;46147;453;laboral04-02-2026;Puente Alto;33668;779;laboral04-02-2026;Independencia;42841;162;laboral04-02-2026;El bosque;19797;703;laboral05-02-2026;Cerronavia;39678;563;laboral05-02-2026;Espejo;13595;463;laboral05-02-2026;Maipu;13238;475;laboral05-02-2026;Vitacura;47241;207;laboral05-02-2026;San Ram—n;14000;466;laboral06-02-2026;Santiago;36381;631;laboral06-02-2026;Maipœ;31064;162;laboral06-02-2026;Puente Alto;23200;370;laboral06-02-2026;La Florida;59965;725;laboral06-02-2026;„u–oa;29506;216;laboral07-02-2026;Las Condes;29586;492;s‡bado07-02-2026;Santiago;13532;198;s‡bado07-02-2026;Maipœ;52731;197;s‡bado07-02-2026;Puente Alto;10231;375;s‡bado07-02-2026;La Florida;45180;488;s‡bado08-02-2026;„u–oa;6238;397;domingo08-02-2026;Las Condes;44453;510;domingo08-02-2026;Santiago;8264;405;domingo08-02-2026;Maipœ;33804;581;domingo08-02-2026;Puente Alto;13764;198;domingo09-02-2026;San Bernardo;59356;314;laboral09-02-2026;Estaci—n Central;48848;488;laboral09-02-2026;Santiago;24313;569;laboral09-02-2026;La Florida;42436;739;laboral09-02-2026;Puente Alto;8028;363;laboral10-02-2026;Independencia;56502;286;laboral10-02-2026;El bosque;49495;226;laboral10-02-2026;Cerronavia;45186;475;laboral10-02-2026;Espejo;52287;421;laboral10-02-2026;Maipu;8781;506;laboral11-02-2026;Vitacura;39335;251;laboral11-02-2026;San Ram—n;29996;738;laboral11-02-2026;Santiago;47842;232;laboral11-02-2026;Maipœ;34161;466;laboral11-02-2026;Puente Alto;50037;525;laboral12-02-2026;La Florida;49247;220;laboral12-02-2026;„u–oa;21608;178;laboral12-02-2026;Las Condes;8176;637;laboral12-02-2026;Santiago;8042;758;laboral12-02-2026;Maipœ;50265;552;laboral13-02-2026;Puente Alto;5882;663;laboral13-02-2026;La Florida;30644;441;laboral13-02-2026;„u–oa;8255;697;laboral13-02-2026;Las Condes;27780;711;laboral13-02-2026;Santiago;54814;382;laboral14-02-2026;Maipœ;57630;771;s‡bado14-02-2026;Puente Alto;48888;429;s‡bado14-02-2026;San Bernardo;53321;261;s‡bado14-02-2026;Estaci—n Central;49639;310;s‡bado14-02-2026;Santiago;13403;371;s‡bado15-02-2026;La Florida;43823;628;domingo15-02-2026;Puente Alto;46259;222;domingo15-02-2026;Independencia;19747;677;domingo15-02-2026;El bosque;7791;595;domingo15-02-2026;Cerronavia;55968;597;domingo16-02-2026;Espejo;57014;381;laboral16-02-2026;Maipu;13128;546;laboral16-02-2026;Vitacura;8205;271;laboral16-02-2026;San Ram—n;26474;470;laboral16-02-2026;Santiago;46440;216;laboral
+Fecha;Comuna;Validaciones;Buses_operativos;Dia
+01-08-2025;Santiago;35795;420;Laboral
+01-08-2025;MaipÅ“;96820;764;Laboral
+01-08-2025;Puente Alto;26265;616;Laboral
+01-08-2025;La Florida;57194;608;Laboral
+01-08-2025;â€žuâ€“oa;64131;280;Laboral
+01-08-2025;Las Condes;87221;458;Laboral
+02-08-2025;Santiago;5769;493;Sabado
+02-08-2025;MaipÅ“;7433;341;Sâ€¡bado
+02-08-2025;Puente Alto;22568;609;Sâ€¡bado
+02-08-2025;La Florida;24769;171;Sâ€¡bado
+02-08-2025;â€žuâ€“oa;11396;710;Sâ€¡bado
+02-08-2025;Las Condes;30658;660;Sâ€¡bado
+03-08-2025;Santiago;23431;625;Domingo
+03-08-2025;MaipÅ“;7747;339;Domingo
+03-08-2025;Puente Alto;24118;712;Domingo
+04-08-2025;San Bernardo;46437;162;laboral
+04-08-2025;Estaciâ€”n Central;5593;562;laboral
+04-08-2025;Santiago;42971;712;laboral
+04-08-2025;La Florida;38744;306;laboral
+04-08-2025;Puente Alto;42681;632;laboral
+05-08-2025;Independencia;20595;245;laboral
+05-08-2025;El bosque;36955;530;laboral
+05-08-2025;Cerronavia;25000;221;laboral
+05-08-2025;Espejo;55061;191;laboral
+05-08-2025;Maipu;39691;169;laboral
+06-08-2025;Vitacura;13293;330;laboral
+06-08-2025;San Ramâ€”n;21724;771;laboral
+06-08-2025;Santiago;28271;363;laboral
+06-08-2025;MaipÅ“;8188;771;laboral
+06-08-2025;Puente Alto;32913;500;laboral
+07-08-2025;La Florida;46014;464;laboral
+07-08-2025;â€žuâ€“oa;11686;170;laboral
+07-08-2025;Las Condes;35518;766;laboral
+07-08-2025;Santiago;59101;721;laboral
+07-08-2025;MaipÅ“;37322;706;laboral
+08-08-2025;Puente Alto;29882;181;laboral
+08-08-2025;La Florida;30203;637;laboral
+08-08-2025;â€žuâ€“oa;22736;215;laboral
+08-08-2025;Las Condes;59189;580;laboral
+08-08-2025;Santiago;20831;601;laboral
+09-08-2025;MaipÅ“;21680;636;sâ€¡bado
+09-08-2025;Puente Alto;19522;733;sâ€¡bado
+09-08-2025;San Bernardo;33670;238;sâ€¡bado
+09-08-2025;Estaciâ€”n Central;50273;529;sâ€¡bado
+09-08-2025;Santiago;47945;526;sâ€¡bado
+10-08-2025;La Florida;37476;608;domingo
+10-08-2025;Puente Alto;18062;387;domingo
+10-08-2025;Independencia;43242;420;domingo
+10-08-2025;El bosque;22047;518;domingo
+10-08-2025;Cerronavia;15980;605;domingo
+11-08-2025;Espejo;59249;683;laboral
+11-08-2025;Maipu;21011;428;laboral
+11-08-2025;Vitacura;38608;374;laboral
+11-08-2025;San Ramâ€”n;55395;347;laboral
+11-08-2025;Santiago;46331;589;laboral
+12-08-2025;MaipÅ“;35161;315;laboral
+12-08-2025;Puente Alto;25189;535;laboral
+12-08-2025;La Florida;8626;272;laboral
+12-08-2025;â€žuâ€“oa;9442;680;laboral
+12-08-2025;Las Condes;58019;612;laboral
+13-08-2025;Santiago;7010;394;laboral
+13-08-2025;MaipÅ“;11231;318;laboral
+13-08-2025;Puente Alto;16709;357;laboral
+13-08-2025;La Florida;7909;540;laboral
+13-08-2025;â€žuâ€“oa;25116;420;laboral
+14-08-2025;Las Condes;38853;488;laboral
+14-08-2025;Santiago;40067;557;laboral
+14-08-2025;MaipÅ“;49437;407;laboral
+14-08-2025;Puente Alto;43979;765;laboral
+14-08-2025;San Bernardo;40966;659;laboral
+15-08-2025;Estaciâ€”n Central;54959;523;laboral
+15-08-2025;Santiago;27795;408;laboral
+15-08-2025;La Florida;12127;521;laboral
+15-08-2025;Puente Alto;40560;221;laboral
+15-08-2025;Independencia;47928;788;laboral
+16-08-2025;El bosque;26474;522;sâ€¡bado
+16-08-2025;Cerronavia;53531;512;sâ€¡bado
+16-08-2025;Espejo;32217;277;sâ€¡bado
+16-08-2025;Maipu;32542;698;sâ€¡bado
+16-08-2025;Vitacura;19132;635;sâ€¡bado
+17-08-2025;San Ramâ€”n;24531;291;domingo
+17-08-2025;Santiago;40236;355;domingo
+17-08-2025;MaipÅ“;49879;232;domingo
+17-08-2025;Puente Alto;11091;690;domingo
+17-08-2025;La Florida;39341;774;domingo
+18-08-2025;â€žuâ€“oa;58294;327;laboral
+18-08-2025;Las Condes;16195;418;laboral
+18-08-2025;Santiago;24670;259;laboral
+18-08-2025;MaipÅ“;47643;548;laboral
+18-08-2025;Puente Alto;12225;388;laboral
+19-08-2025;La Florida;6264;751;laboral
+19-08-2025;â€žuâ€“oa;19053;257;laboral
+19-08-2025;Las Condes;45244;527;laboral
+19-08-2025;Santiago;41499;623;laboral
+19-08-2025;MaipÅ“;51240;339;laboral
+20-08-2025;Puente Alto;10440;769;laboral
+20-08-2025;San Bernardo;11067;789;laboral
+20-08-2025;Estaciâ€”n Central;24618;520;laboral
+20-08-2025;Santiago;23505;800;laboral
+20-08-2025;La Florida;47832;449;laboral
+21-08-2025;Puente Alto;10536;261;laboral
+21-08-2025;Independencia;43825;329;laboral
+21-08-2025;El bosque;13060;778;laboral
+21-08-2025;Cerronavia;14644;438;laboral
+21-08-2025;Espejo;23734;761;laboral
+22-08-2025;Maipu;42050;377;laboral
+22-08-2025;Vitacura;50130;333;laboral
+22-08-2025;San Ramâ€”n;10457;305;laboral
+22-08-2025;Santiago;58441;716;laboral
+22-08-2025;MaipÅ“;13708;171;laboral
+23-08-2025;Puente Alto;8918;500;sâ€¡bado
+23-08-2025;La Florida;33523;736;sâ€¡bado
+23-08-2025;â€žuâ€“oa;8425;585;sâ€¡bado
+23-08-2025;Las Condes;57627;763;sâ€¡bado
+23-08-2025;Santiago;6526;505;sâ€¡bado
+24-08-2025;MaipÅ“;33442;522;domingo
+24-08-2025;Puente Alto;18386;224;domingo
+24-08-2025;La Florida;39539;431;domingo
+24-08-2025;â€žuâ€“oa;54218;704;domingo
+24-08-2025;Las Condes;56398;724;domingo
+25-08-2025;Santiago;59431;621;laboral
+25-08-2025;MaipÅ“;26390;580;laboral
+25-08-2025;Puente Alto;45836;196;laboral
+25-08-2025;San Bernardo;44233;192;laboral
+25-08-2025;Estaciâ€”n Central;14617;401;laboral
+26-08-2025;Santiago;14542;309;laboral
+26-08-2025;La Florida;44781;619;laboral
+26-08-2025;Puente Alto;35408;396;laboral
+26-08-2025;Independencia;33347;189;laboral
+26-08-2025;El bosque;55230;788;laboral
+27-08-2025;Cerronavia;34786;413;laboral
+27-08-2025;Espejo;46013;661;laboral
+27-08-2025;Maipu;35290;303;laboral
+27-08-2025;Vitacura;36230;507;laboral
+27-08-2025;San Ramâ€”n;29820;167;laboral
+28-08-2025;Santiago;58890;309;laboral
+28-08-2025;MaipÅ“;45722;598;laboral
+28-08-2025;Puente Alto;13158;793;laboral
+28-08-2025;La Florida;28133;307;laboral
+28-08-2025;â€žuâ€“oa;36284;789;laboral
+29-08-2025;Las Condes;22000;332;laboral
+29-08-2025;Santiago;44157;214;laboral
+29-08-2025;MaipÅ“;24516;398;laboral
+29-08-2025;Puente Alto;45066;287;laboral
+29-08-2025;La Florida;39344;217;laboral
+30-08-2025;â€žuâ€“oa;26579;298;sâ€¡bado
+30-08-2025;Las Condes;39976;628;sâ€¡bado
+30-08-2025;Santiago;54128;369;sâ€¡bado
+30-08-2025;MaipÅ“;55543;512;sâ€¡bado
+30-08-2025;Puente Alto;17350;214;sâ€¡bado
+31-08-2025;San Bernardo;29180;409;domingo
+31-08-2025;Estaciâ€”n Central;21911;443;domingo
+31-08-2025;Santiago;32020;505;domingo
+31-08-2025;La Florida;24374;401;domingo
+31-08-2025;Puente Alto;33970;526;domingo
+01-09-2025;Independencia;45839;690;laboral
+01-09-2025;El bosque;25459;248;laboral
+01-09-2025;Cerronavia;26911;651;laboral
+01-09-2025;Espejo;56004;204;laboral
+01-09-2025;Maipu;59879;459;laboral
+02-09-2025;Vitacura;37124;723;laboral
+02-09-2025;San Ramâ€”n;41297;753;laboral
+02-09-2025;Santiago;45396;444;laboral
+02-09-2025;MaipÅ“;7975;732;laboral
+02-09-2025;Puente Alto;43719;351;laboral
+03-09-2025;La Florida;14282;460;laboral
+03-09-2025;â€žuâ€“oa;45062;205;laboral
+03-09-2025;Las Condes;13151;326;laboral
+03-09-2025;Santiago;54851;614;laboral
+03-09-2025;MaipÅ“;9727;194;laboral
+04-09-2025;Puente Alto;38088;567;laboral
+04-09-2025;La Florida;44650;629;laboral
+04-09-2025;â€žuâ€“oa;13599;682;laboral
+04-09-2025;Las Condes;57842;704;laboral
+04-09-2025;Santiago;12296;627;laboral
+05-09-2025;MaipÅ“;18926;245;laboral
+05-09-2025;Puente Alto;38355;400;laboral
+05-09-2025;San Bernardo;39824;532;laboral
+05-09-2025;Estaciâ€”n Central;28891;303;laboral
+05-09-2025;Santiago;8282;502;laboral
+06-09-2025;La Florida;20908;474;sâ€¡bado
+06-09-2025;Puente Alto;42867;309;sâ€¡bado
+06-09-2025;Independencia;52065;745;sâ€¡bado
+06-09-2025;El bosque;12238;493;sâ€¡bado
+06-09-2025;Cerronavia;38220;188;sâ€¡bado
+07-09-2025;Espejo;7772;350;domingo
+07-09-2025;Maipu;49325;622;domingo
+07-09-2025;Vitacura;44164;331;domingo
+07-09-2025;San Ramâ€”n;23605;663;domingo
+07-09-2025;Santiago;58263;523;domingo
+08-09-2025;MaipÅ“;52143;257;laboral
+08-09-2025;Puente Alto;21776;165;laboral
+08-09-2025;La Florida;21712;330;laboral
+08-09-2025;â€žuâ€“oa;18703;541;laboral
+08-09-2025;Las Condes;34788;375;laboral
+09-09-2025;Santiago;58763;256;laboral
+09-09-2025;MaipÅ“;46630;274;laboral
+09-09-2025;Puente Alto;20543;773;laboral
+09-09-2025;La Florida;42644;491;laboral
+09-09-2025;â€žuâ€“oa;43733;210;laboral
+10-09-2025;Las Condes;43382;763;laboral
+10-09-2025;Santiago;21484;545;laboral
+10-09-2025;MaipÅ“;33109;519;laboral
+10-09-2025;Puente Alto;50199;362;laboral
+10-09-2025;San Bernardo;30353;172;laboral
+11-09-2025;Estaciâ€”n Central;27127;329;laboral
+11-09-2025;Santiago;59410;702;laboral
+11-09-2025;La Florida;55093;699;laboral
+11-09-2025;Puente Alto;40248;418;laboral
+11-09-2025;Independencia;27751;328;laboral
+12-09-2025;El bosque;6277;424;laboral
+12-09-2025;Cerronavia;37262;426;laboral
+12-09-2025;Espejo;30670;493;laboral
+12-09-2025;Maipu;51785;469;laboral
+12-09-2025;Vitacura;24059;378;laboral
+13-09-2025;San Ramâ€”n;17453;179;sâ€¡bado
+13-09-2025;Santiago;48518;611;sâ€¡bado
+13-09-2025;MaipÅ“;37377;437;sâ€¡bado
+13-09-2025;Puente Alto;5434;528;sâ€¡bado
+13-09-2025;La Florida;24882;192;sâ€¡bado
+14-09-2025;â€žuâ€“oa;28504;390;domingo
+14-09-2025;Las Condes;34901;249;domingo
+14-09-2025;Santiago;17734;545;domingo
+14-09-2025;MaipÅ“;43062;755;domingo
+14-09-2025;Puente Alto;44411;683;domingo
+15-09-2025;La Florida;48993;360;laboral
+15-09-2025;â€žuâ€“oa;59044;750;laboral
+15-09-2025;Las Condes;44880;657;laboral
+15-09-2025;Santiago;11435;725;laboral
+15-09-2025;MaipÅ“;8128;174;laboral
+16-09-2025;Puente Alto;9703;678;laboral
+16-09-2025;San Bernardo;12886;477;laboral
+16-09-2025;Estaciâ€”n Central;38228;510;laboral
+16-09-2025;Santiago;16723;305;laboral
+16-09-2025;La Florida;22663;276;laboral
+17-09-2025;Puente Alto;9755;283;laboral
+17-09-2025;Independencia;41257;556;laboral
+17-09-2025;El bosque;41740;682;laboral
+17-09-2025;Cerronavia;50667;593;laboral
+17-09-2025;Espejo;23922;694;laboral
+18-09-2025;Maipu;35277;259;laboral
+18-09-2025;Vitacura;39815;606;laboral
+18-09-2025;San Ramâ€”n;54521;400;laboral
+18-09-2025;Santiago;52467;331;laboral
+18-09-2025;MaipÅ“;35121;295;laboral
+19-09-2025;Puente Alto;30279;636;laboral
+19-09-2025;La Florida;6233;693;laboral
+19-09-2025;â€žuâ€“oa;9437;586;laboral
+19-09-2025;Las Condes;33237;437;laboral
+19-09-2025;Santiago;7674;628;laboral
+20-09-2025;MaipÅ“;34767;428;sâ€¡bado
+20-09-2025;Puente Alto;50953;622;sâ€¡bado
+20-09-2025;La Florida;22334;498;sâ€¡bado
+20-09-2025;â€žuâ€“oa;50185;794;sâ€¡bado
+20-09-2025;Las Condes;40370;559;sâ€¡bado
+21-09-2025;Santiago;27100;369;domingo
+21-09-2025;MaipÅ“;59632;616;domingo
+21-09-2025;Puente Alto;31459;715;domingo
+21-09-2025;San Bernardo;44538;504;domingo
+21-09-2025;Estaciâ€”n Central;57774;368;domingo
+22-09-2025;Santiago;18742;629;laboral
+22-09-2025;La Florida;21569;731;laboral
+22-09-2025;Puente Alto;24633;498;laboral
+22-09-2025;Independencia;18313;648;laboral
+22-09-2025;El bosque;35442;157;laboral
+23-09-2025;Cerronavia;55257;524;laboral
+23-09-2025;Espejo;34587;295;laboral
+23-09-2025;Maipu;8003;504;laboral
+23-09-2025;Vitacura;20662;510;laboral
+23-09-2025;San Ramâ€”n;37819;709;laboral
+24-09-2025;Santiago;56113;789;laboral
+24-09-2025;MaipÅ“;32083;244;laboral
+24-09-2025;Puente Alto;26795;726;laboral
+24-09-2025;La Florida;52724;173;laboral
+24-09-2025;â€žuâ€“oa;32776;636;laboral
+25-09-2025;Las Condes;22426;150;laboral
+25-09-2025;Santiago;44110;608;laboral
+25-09-2025;MaipÅ“;40512;448;laboral
+25-09-2025;Puente Alto;37413;692;laboral
+25-09-2025;La Florida;52307;559;laboral
+26-09-2025;â€žuâ€“oa;18237;235;laboral
+26-09-2025;Las Condes;50143;763;laboral
+26-09-2025;Santiago;50606;577;laboral
+26-09-2025;MaipÅ“;37578;643;laboral
+26-09-2025;Puente Alto;17927;603;laboral
+27-09-2025;San Bernardo;5211;390;sâ€¡bado
+27-09-2025;Estaciâ€”n Central;26937;671;sâ€¡bado
+27-09-2025;Santiago;46426;743;sâ€¡bado
+27-09-2025;La Florida;13996;669;sâ€¡bado
+27-09-2025;Puente Alto;42064;220;sâ€¡bado
+28-09-2025;Independencia;24512;386;domingo
+28-09-2025;El bosque;54929;175;domingo
+28-09-2025;Cerronavia;30270;499;domingo
+28-09-2025;Espejo;50945;161;domingo
+28-09-2025;Maipu;52960;647;domingo
+29-09-2025;Vitacura;17376;612;laboral
+29-09-2025;San Ramâ€”n;32753;655;laboral
+29-09-2025;Santiago;18641;413;laboral
+29-09-2025;MaipÅ“;15084;268;laboral
+29-09-2025;Puente Alto;54747;485;laboral
+30-09-2025;La Florida;5045;548;laboral
+30-09-2025;â€žuâ€“oa;6721;430;laboral
+30-09-2025;Las Condes;48360;237;laboral
+30-09-2025;Santiago;12680;534;laboral
+30-09-2025;MaipÅ“;33385;411;laboral
+01-10-2025;Puente Alto;45181;241;laboral
+01-10-2025;La Florida;43879;430;laboral
+01-10-2025;â€žuâ€“oa;59546;387;laboral
+01-10-2025;Las Condes;31414;539;laboral
+01-10-2025;Santiago;39744;536;laboral
+02-10-2025;MaipÅ“;35391;373;laboral
+02-10-2025;Puente Alto;47598;202;laboral
+02-10-2025;San Bernardo;36908;166;laboral
+02-10-2025;Estaciâ€”n Central;33121;391;laboral
+02-10-2025;Santiago;23326;212;laboral
+03-10-2025;La Florida;25425;182;laboral
+03-10-2025;Puente Alto;16917;410;laboral
+03-10-2025;Independencia;57265;692;laboral
+03-10-2025;El bosque;38991;230;laboral
+03-10-2025;Cerronavia;5785;498;laboral
+04-10-2025;Espejo;11549;551;sâ€¡bado
+04-10-2025;Maipu;28379;174;sâ€¡bado
+04-10-2025;Vitacura;32118;406;sâ€¡bado
+04-10-2025;San Ramâ€”n;32699;383;sâ€¡bado
+04-10-2025;Santiago;40578;655;sâ€¡bado
+05-10-2025;MaipÅ“;52305;517;domingo
+05-10-2025;Puente Alto;43541;159;domingo
+05-10-2025;La Florida;51646;698;domingo
+05-10-2025;â€žuâ€“oa;23506;774;domingo
+05-10-2025;Las Condes;52672;505;domingo
+06-10-2025;Santiago;32675;657;laboral
+06-10-2025;MaipÅ“;47588;653;laboral
+06-10-2025;Puente Alto;41220;172;laboral
+06-10-2025;La Florida;41988;679;laboral
+06-10-2025;â€žuâ€“oa;38868;518;laboral
+07-10-2025;Las Condes;33847;600;laboral
+07-10-2025;Santiago;58778;765;laboral
+07-10-2025;MaipÅ“;55761;468;laboral
+07-10-2025;Puente Alto;35886;229;laboral
+07-10-2025;San Bernardo;12488;176;laboral
+08-10-2025;Estaciâ€”n Central;12888;159;laboral
+08-10-2025;Santiago;52954;268;laboral
+08-10-2025;La Florida;58705;284;laboral
+08-10-2025;Puente Alto;37902;172;laboral
+08-10-2025;Independencia;41455;525;laboral
+09-10-2025;El bosque;29070;595;laboral
+09-10-2025;Cerronavia;51009;726;laboral
+09-10-2025;Espejo;22975;471;laboral
+09-10-2025;Maipu;14466;383;laboral
+09-10-2025;Vitacura;49631;323;laboral
+10-10-2025;San Ramâ€”n;26007;204;laboral
+10-10-2025;Santiago;8713;794;laboral
+10-10-2025;MaipÅ“;33436;607;laboral
+10-10-2025;Puente Alto;20577;320;laboral
+10-10-2025;La Florida;44353;223;laboral
+11-10-2025;â€žuâ€“oa;44520;630;sâ€¡bado
+11-10-2025;Las Condes;6713;680;sâ€¡bado
+11-10-2025;Santiago;25028;253;sâ€¡bado
+11-10-2025;MaipÅ“;12886;484;sâ€¡bado
+11-10-2025;Puente Alto;56015;476;sâ€¡bado
+12-10-2025;La Florida;17138;712;domingo
+12-10-2025;â€žuâ€“oa;32191;762;domingo
+12-10-2025;Las Condes;33038;501;domingo
+12-10-2025;Santiago;32521;441;domingo
+12-10-2025;MaipÅ“;37912;494;domingo
+13-10-2025;Puente Alto;33978;244;laboral
+13-10-2025;San Bernardo;23769;162;laboral
+13-10-2025;Estaciâ€”n Central;56895;675;laboral
+13-10-2025;Santiago;9253;220;laboral
+13-10-2025;La Florida;55482;376;laboral
+14-10-2025;Puente Alto;25582;754;laboral
+14-10-2025;Independencia;12016;539;laboral
+14-10-2025;El bosque;6627;199;laboral
+14-10-2025;Cerronavia;52264;651;laboral
+14-10-2025;Espejo;35213;286;laboral
+15-10-2025;Maipu;11184;698;laboral
+15-10-2025;Vitacura;18260;619;laboral
+15-10-2025;San Ramâ€”n;47293;447;laboral
+15-10-2025;Santiago;40971;596;laboral
+15-10-2025;MaipÅ“;50188;243;laboral
+16-10-2025;Puente Alto;41428;676;laboral
+16-10-2025;La Florida;14334;271;laboral
+16-10-2025;â€žuâ€“oa;40268;787;laboral
+16-10-2025;Las Condes;39132;694;laboral
+16-10-2025;Santiago;53759;209;laboral
+17-10-2025;MaipÅ“;15494;663;laboral
+17-10-2025;Puente Alto;43312;540;laboral
+17-10-2025;La Florida;53081;166;laboral
+17-10-2025;â€žuâ€“oa;38393;324;laboral
+17-10-2025;Las Condes;36244;675;laboral
+18-10-2025;Santiago;47183;261;sâ€¡bado
+18-10-2025;MaipÅ“;21650;581;sâ€¡bado
+18-10-2025;Puente Alto;19243;656;sâ€¡bado
+18-10-2025;San Bernardo;31117;626;sâ€¡bado
+18-10-2025;Estaciâ€”n Central;45971;190;sâ€¡bado
+19-10-2025;Santiago;38897;435;domingo
+19-10-2025;La Florida;34677;459;domingo
+19-10-2025;Puente Alto;41465;436;domingo
+19-10-2025;Independencia;24150;599;domingo
+19-10-2025;El bosque;18753;494;domingo
+20-10-2025;Cerronavia;33203;493;laboral
+20-10-2025;Espejo;53195;767;laboral
+20-10-2025;Maipu;17926;569;laboral
+20-10-2025;Vitacura;54077;625;laboral
+20-10-2025;San Ramâ€”n;50962;654;laboral
+21-10-2025;Santiago;27928;783;laboral
+21-10-2025;MaipÅ“;15222;598;laboral
+21-10-2025;Puente Alto;51541;692;laboral
+21-10-2025;La Florida;47448;348;laboral
+21-10-2025;â€žuâ€“oa;9150;647;laboral
+22-10-2025;Las Condes;36186;166;laboral
+22-10-2025;Santiago;16106;699;laboral
+22-10-2025;MaipÅ“;59915;659;laboral
+22-10-2025;Puente Alto;48105;410;laboral
+22-10-2025;La Florida;16040;285;laboral
+23-10-2025;â€žuâ€“oa;28867;320;laboral
+23-10-2025;Las Condes;32477;414;laboral
+23-10-2025;Santiago;33317;745;laboral
+23-10-2025;MaipÅ“;27205;751;laboral
+23-10-2025;Puente Alto;43024;183;laboral
+24-10-2025;San Bernardo;37310;304;laboral
+24-10-2025;Estaciâ€”n Central;42528;750;laboral
+24-10-2025;Santiago;57877;694;laboral
+24-10-2025;La Florida;12613;295;laboral
+24-10-2025;Puente Alto;10752;197;laboral
+25-10-2025;Independencia;23311;409;sâ€¡bado
+25-10-2025;El bosque;21063;725;sâ€¡bado
+25-10-2025;Cerronavia;27942;443;sâ€¡bado
+25-10-2025;Espejo;13080;554;sâ€¡bado
+25-10-2025;Maipu;39051;155;sâ€¡bado
+26-10-2025;Vitacura;34500;542;domingo
+26-10-2025;San Ramâ€”n;55781;233;domingo
+26-10-2025;Santiago;35786;350;domingo
+26-10-2025;MaipÅ“;30583;314;domingo
+26-10-2025;Puente Alto;29173;742;domingo
+27-10-2025;La Florida;11450;547;laboral
+27-10-2025;â€žuâ€“oa;48000;523;laboral
+27-10-2025;Las Condes;38311;445;laboral
+27-10-2025;Santiago;23247;757;laboral
+27-10-2025;MaipÅ“;24835;340;laboral
+28-10-2025;Puente Alto;23644;684;laboral
+28-10-2025;La Florida;27785;200;laboral
+28-10-2025;â€žuâ€“oa;44372;775;laboral
+28-10-2025;Las Condes;51328;765;laboral
+28-10-2025;Santiago;41854;775;laboral
+29-10-2025;MaipÅ“;5260;525;laboral
+29-10-2025;Puente Alto;56330;262;laboral
+29-10-2025;San Bernardo;21049;428;laboral
+29-10-2025;Estaciâ€”n Central;23236;547;laboral
+29-10-2025;Santiago;47652;225;laboral
+30-10-2025;La Florida;17006;756;laboral
+30-10-2025;Puente Alto;57578;404;laboral
+30-10-2025;Independencia;36002;353;laboral
+30-10-2025;El bosque;29690;339;laboral
+30-10-2025;Cerronavia;26671;283;laboral
+31-10-2025;Espejo;47870;610;laboral
+31-10-2025;Maipu;23839;306;laboral
+31-10-2025;Vitacura;40295;302;laboral
+31-10-2025;San Ramâ€”n;18245;481;laboral
+31-10-2025;Santiago;56154;519;laboral
+01-11-2025;MaipÅ“;15482;217;sâ€¡bado
+01-11-2025;Puente Alto;18011;156;sâ€¡bado
+01-11-2025;La Florida;27100;270;sâ€¡bado
+01-11-2025;â€žuâ€“oa;14251;341;sâ€¡bado
+01-11-2025;Las Condes;47074;598;sâ€¡bado
+02-11-2025;Santiago;44707;388;domingo
+02-11-2025;MaipÅ“;40710;719;domingo
+02-11-2025;Puente Alto;37518;714;domingo
+02-11-2025;La Florida;36952;746;domingo
+02-11-2025;â€žuâ€“oa;33398;468;domingo
+03-11-2025;Las Condes;6938;784;laboral
+03-11-2025;Santiago;54369;714;laboral
+03-11-2025;MaipÅ“;55110;659;laboral
+03-11-2025;Puente Alto;23623;264;laboral
+03-11-2025;San Bernardo;56029;662;laboral
+04-11-2025;Estaciâ€”n Central;15407;311;laboral
+04-11-2025;Santiago;13360;522;laboral
+04-11-2025;La Florida;43373;769;laboral
+04-11-2025;Puente Alto;15404;704;laboral
+04-11-2025;Independencia;36933;632;laboral
+05-11-2025;El bosque;17951;427;laboral
+05-11-2025;Cerronavia;44628;475;laboral
+05-11-2025;Espejo;8910;765;laboral
+05-11-2025;Maipu;23424;427;laboral
+05-11-2025;Vitacura;36863;229;laboral
+06-11-2025;San Ramâ€”n;23506;728;laboral
+06-11-2025;Santiago;21442;298;laboral
+06-11-2025;MaipÅ“;22263;223;laboral
+06-11-2025;Puente Alto;48973;441;laboral
+06-11-2025;La Florida;26157;567;laboral
+07-11-2025;â€žuâ€“oa;55906;450;laboral
+07-11-2025;Las Condes;22003;685;laboral
+07-11-2025;Santiago;53178;406;laboral
+07-11-2025;MaipÅ“;26623;383;laboral
+07-11-2025;Puente Alto;8727;232;laboral
+08-11-2025;La Florida;25608;348;sâ€¡bado
+08-11-2025;â€žuâ€“oa;31458;229;sâ€¡bado
+08-11-2025;Las Condes;51393;621;sâ€¡bado
+08-11-2025;Santiago;33922;796;sâ€¡bado
+08-11-2025;MaipÅ“;52612;243;sâ€¡bado
+09-11-2025;Puente Alto;58652;330;domingo
+09-11-2025;San Bernardo;15785;604;domingo
+09-11-2025;Estaciâ€”n Central;54569;535;domingo
+09-11-2025;Santiago;32049;159;domingo
+09-11-2025;La Florida;53356;721;domingo
+10-11-2025;Puente Alto;43803;280;laboral
+10-11-2025;Independencia;35357;348;laboral
+10-11-2025;El bosque;48265;500;laboral
+10-11-2025;Cerronavia;8266;403;laboral
+10-11-2025;Espejo;9613;156;laboral
+11-11-2025;Maipu;21642;407;laboral
+11-11-2025;Vitacura;58391;685;laboral
+11-11-2025;San Ramâ€”n;31922;731;laboral
+11-11-2025;Santiago;48308;634;laboral
+11-11-2025;MaipÅ“;25569;684;laboral
+12-11-2025;Puente Alto;39438;184;laboral
+12-11-2025;La Florida;51064;500;laboral
+12-11-2025;â€žuâ€“oa;57085;537;laboral
+12-11-2025;Las Condes;29397;471;laboral
+12-11-2025;Santiago;25853;560;laboral
+13-11-2025;MaipÅ“;57602;589;laboral
+13-11-2025;Puente Alto;42016;451;laboral
+13-11-2025;La Florida;41046;566;laboral
+13-11-2025;â€žuâ€“oa;53935;376;laboral
+13-11-2025;Las Condes;43472;656;laboral
+14-11-2025;Santiago;21407;258;laboral
+14-11-2025;MaipÅ“;35171;271;laboral
+14-11-2025;Puente Alto;55183;286;laboral
+14-11-2025;San Bernardo;32216;451;laboral
+14-11-2025;Estaciâ€”n Central;48234;465;laboral
+15-11-2025;Santiago;12414;373;sâ€¡bado
+15-11-2025;La Florida;44124;659;sâ€¡bado
+15-11-2025;Puente Alto;39476;576;sâ€¡bado
+15-11-2025;Independencia;12562;304;sâ€¡bado
+15-11-2025;El bosque;11623;638;sâ€¡bado
+16-11-2025;Cerronavia;12220;247;domingo
+16-11-2025;Espejo;59515;414;domingo
+16-11-2025;Maipu;37049;722;domingo
+16-11-2025;Vitacura;15092;390;domingo
+16-11-2025;San Ramâ€”n;16991;323;domingo
+17-11-2025;Santiago;50811;626;laboral
+17-11-2025;MaipÅ“;53475;210;laboral
+17-11-2025;Puente Alto;12181;155;laboral
+17-11-2025;La Florida;42526;210;laboral
+17-11-2025;â€žuâ€“oa;8701;725;laboral
+18-11-2025;Las Condes;36076;703;laboral
+18-11-2025;Santiago;28294;206;laboral
+18-11-2025;MaipÅ“;24711;543;laboral
+18-11-2025;Puente Alto;9513;239;laboral
+18-11-2025;La Florida;12660;510;laboral
+19-11-2025;â€žuâ€“oa;28413;651;laboral
+19-11-2025;Las Condes;31440;268;laboral
+19-11-2025;Santiago;5807;324;laboral
+19-11-2025;MaipÅ“;30872;481;laboral
+19-11-2025;Puente Alto;23262;796;laboral
+20-11-2025;San Bernardo;55312;618;laboral
+20-11-2025;Estaciâ€”n Central;5167;740;laboral
+20-11-2025;Santiago;26226;507;laboral
+20-11-2025;La Florida;44087;362;laboral
+20-11-2025;Puente Alto;53392;278;laboral
+21-11-2025;Independencia;48555;403;laboral
+21-11-2025;El bosque;44877;218;laboral
+21-11-2025;Cerronavia;5939;492;laboral
+21-11-2025;Espejo;59106;432;laboral
+21-11-2025;Maipu;41142;152;laboral
+22-11-2025;Vitacura;32841;366;sâ€¡bado
+22-11-2025;San Ramâ€”n;57678;241;sâ€¡bado
+22-11-2025;Santiago;27506;323;sâ€¡bado
+22-11-2025;MaipÅ“;50013;182;sâ€¡bado
+22-11-2025;Puente Alto;52384;786;sâ€¡bado
+23-11-2025;La Florida;29116;571;domingo
+23-11-2025;â€žuâ€“oa;47235;223;domingo
+23-11-2025;Las Condes;28890;591;domingo
+23-11-2025;Santiago;32773;231;domingo
+23-11-2025;MaipÅ“;32889;346;domingo
+24-11-2025;Puente Alto;17258;416;laboral
+24-11-2025;La Florida;44937;506;laboral
+24-11-2025;â€žuâ€“oa;44250;159;laboral
+24-11-2025;Las Condes;8924;426;laboral
+24-11-2025;Santiago;5132;413;laboral
+25-11-2025;MaipÅ“;9786;504;laboral
+25-11-2025;Puente Alto;44728;197;laboral
+25-11-2025;San Bernardo;39555;547;laboral
+25-11-2025;Estaciâ€”n Central;49910;619;laboral
+25-11-2025;Santiago;33387;789;laboral
+26-11-2025;La Florida;32345;686;laboral
+26-11-2025;Puente Alto;9087;272;laboral
+26-11-2025;Independencia;57530;552;laboral
+26-11-2025;El bosque;53497;304;laboral
+26-11-2025;Cerronavia;39973;543;laboral
+27-11-2025;Espejo;22869;426;laboral
+27-11-2025;Maipu;17983;669;laboral
+27-11-2025;Vitacura;36950;355;laboral
+27-11-2025;San Ramâ€”n;24851;609;laboral
+27-11-2025;Santiago;11292;682;laboral
+28-11-2025;MaipÅ“;29562;638;laboral
+28-11-2025;Puente Alto;57773;477;laboral
+28-11-2025;La Florida;25237;741;laboral
+28-11-2025;â€žuâ€“oa;31642;653;laboral
+28-11-2025;Las Condes;30096;221;laboral
+29-11-2025;Santiago;46898;300;sâ€¡bado
+29-11-2025;MaipÅ“;8566;283;sâ€¡bado
+29-11-2025;Puente Alto;11831;599;sâ€¡bado
+29-11-2025;La Florida;5331;501;sâ€¡bado
+29-11-2025;â€žuâ€“oa;40894;247;sâ€¡bado
+30-11-2025;Las Condes;46418;692;domingo
+30-11-2025;Santiago;45939;281;domingo
+30-11-2025;MaipÅ“;22583;370;domingo
+30-11-2025;Puente Alto;49599;680;domingo
+30-11-2025;San Bernardo;31450;437;domingo
+01-12-2025;Estaciâ€”n Central;56478;491;laboral
+01-12-2025;Santiago;10425;553;laboral
+01-12-2025;La Florida;49838;260;laboral
+01-12-2025;Puente Alto;51873;250;laboral
+01-12-2025;Independencia;49785;528;laboral
+02-12-2025;El bosque;12614;404;laboral
+02-12-2025;Cerronavia;47689;773;laboral
+02-12-2025;Espejo;8783;171;laboral
+02-12-2025;Maipu;28078;173;laboral
+02-12-2025;Vitacura;53714;689;laboral
+03-12-2025;San Ramâ€”n;10247;722;laboral
+03-12-2025;Santiago;32175;446;laboral
+03-12-2025;MaipÅ“;18824;563;laboral
+03-12-2025;Puente Alto;55117;666;laboral
+03-12-2025;La Florida;52793;500;laboral
+04-12-2025;â€žuâ€“oa;51438;414;laboral
+04-12-2025;Las Condes;20598;422;laboral
+04-12-2025;Santiago;28581;570;laboral
+04-12-2025;MaipÅ“;44290;327;laboral
+04-12-2025;Puente Alto;51510;378;laboral
+05-12-2025;La Florida;21591;799;laboral
+05-12-2025;â€žuâ€“oa;58588;729;laboral
+05-12-2025;Las Condes;52795;559;laboral
+05-12-2025;Santiago;21093;178;laboral
+05-12-2025;MaipÅ“;21481;641;laboral
+06-12-2025;Puente Alto;51987;641;sâ€¡bado
+06-12-2025;San Bernardo;9549;782;sâ€¡bado
+06-12-2025;Estaciâ€”n Central;42264;449;sâ€¡bado
+06-12-2025;Santiago;21946;464;sâ€¡bado
+06-12-2025;La Florida;22686;663;sâ€¡bado
+07-12-2025;Puente Alto;56010;253;domingo
+07-12-2025;Independencia;42615;254;domingo
+07-12-2025;El bosque;52294;412;domingo
+07-12-2025;Cerronavia;22628;531;domingo
+07-12-2025;Espejo;42774;710;domingo
+08-12-2025;Maipu;17285;693;laboral
+08-12-2025;Vitacura;14570;513;laboral
+08-12-2025;San Ramâ€”n;17821;258;laboral
+08-12-2025;Santiago;20988;554;laboral
+08-12-2025;MaipÅ“;26611;205;laboral
+09-12-2025;Puente Alto;30815;608;laboral
+09-12-2025;La Florida;50378;314;laboral
+09-12-2025;â€žuâ€“oa;57751;503;laboral
+09-12-2025;Las Condes;12300;746;laboral
+09-12-2025;Santiago;50093;421;laboral
+10-12-2025;MaipÅ“;5490;573;laboral
+10-12-2025;Puente Alto;24498;299;laboral
+10-12-2025;La Florida;6875;748;laboral
+10-12-2025;â€žuâ€“oa;48607;464;laboral
+10-12-2025;Las Condes;53605;556;laboral
+11-12-2025;Santiago;30176;253;laboral
+11-12-2025;MaipÅ“;10096;628;laboral
+11-12-2025;Puente Alto;11435;252;laboral
+11-12-2025;San Bernardo;22474;609;laboral
+11-12-2025;Estaciâ€”n Central;30902;634;laboral
+12-12-2025;Santiago;27030;232;laboral
+12-12-2025;La Florida;16048;570;laboral
+12-12-2025;Puente Alto;31194;437;laboral
+12-12-2025;Independencia;22619;203;laboral
+12-12-2025;El bosque;23185;604;laboral
+13-12-2025;Cerronavia;10057;234;sâ€¡bado
+13-12-2025;Espejo;26423;365;sâ€¡bado
+13-12-2025;Maipu;27505;494;sâ€¡bado
+13-12-2025;Vitacura;42506;794;sâ€¡bado
+13-12-2025;San Ramâ€”n;10778;670;sâ€¡bado
+14-12-2025;Santiago;20025;572;domingo
+14-12-2025;MaipÅ“;7431;406;domingo
+14-12-2025;Puente Alto;23041;340;domingo
+14-12-2025;La Florida;59194;289;domingo
+14-12-2025;â€žuâ€“oa;32746;589;domingo
+15-12-2025;Las Condes;40261;497;laboral
+15-12-2025;Santiago;28074;767;laboral
+15-12-2025;MaipÅ“;51861;425;laboral
+15-12-2025;Puente Alto;55495;752;laboral
+15-12-2025;La Florida;46975;569;laboral
+16-12-2025;â€žuâ€“oa;32086;480;laboral
+16-12-2025;Las Condes;10317;410;laboral
+16-12-2025;Santiago;58333;731;laboral
+16-12-2025;MaipÅ“;31370;387;laboral
+16-12-2025;Puente Alto;40893;246;laboral
+17-12-2025;San Bernardo;19506;643;laboral
+17-12-2025;Estaciâ€”n Central;46510;718;laboral
+17-12-2025;Santiago;31198;786;laboral
+17-12-2025;La Florida;59689;588;laboral
+17-12-2025;Puente Alto;58683;484;laboral
+18-12-2025;Independencia;13060;762;laboral
+18-12-2025;El bosque;28987;309;laboral
+18-12-2025;Cerronavia;59092;531;laboral
+18-12-2025;Espejo;37765;433;laboral
+18-12-2025;Maipu;25353;206;laboral
+19-12-2025;Vitacura;13768;596;laboral
+19-12-2025;San Ramâ€”n;48005;380;laboral
+19-12-2025;Santiago;37614;282;laboral
+19-12-2025;MaipÅ“;14086;201;laboral
+19-12-2025;Puente Alto;54575;307;laboral
+20-12-2025;La Florida;24810;408;sâ€¡bado
+20-12-2025;â€žuâ€“oa;14415;303;sâ€¡bado
+20-12-2025;Las Condes;34324;523;sâ€¡bado
+20-12-2025;Santiago;50271;549;sâ€¡bado
+20-12-2025;MaipÅ“;41361;478;sâ€¡bado
+21-12-2025;Puente Alto;20657;319;domingo
+21-12-2025;La Florida;46696;512;domingo
+21-12-2025;â€žuâ€“oa;13807;664;domingo
+21-12-2025;Las Condes;12337;266;domingo
+21-12-2025;Santiago;51956;477;domingo
+22-12-2025;MaipÅ“;19384;382;laboral
+22-12-2025;Puente Alto;13335;165;laboral
+22-12-2025;San Bernardo;19400;402;laboral
+22-12-2025;Estaciâ€”n Central;22668;429;laboral
+22-12-2025;Santiago;28830;188;laboral
+23-12-2025;La Florida;27389;444;laboral
+23-12-2025;Puente Alto;48031;672;laboral
+23-12-2025;Independencia;24628;457;laboral
+23-12-2025;El bosque;29339;674;laboral
+23-12-2025;Cerronavia;27786;267;laboral
+24-12-2025;Espejo;49494;790;laboral
+24-12-2025;Maipu;55638;285;laboral
+24-12-2025;Vitacura;18648;740;laboral
+24-12-2025;San Ramâ€”n;43239;648;laboral
+24-12-2025;Santiago;5125;417;laboral
+25-12-2025;MaipÅ“;22528;321;laboral
+25-12-2025;Puente Alto;38962;557;laboral
+25-12-2025;La Florida;37619;366;laboral
+25-12-2025;â€žuâ€“oa;21396;757;laboral
+25-12-2025;Las Condes;17228;582;laboral
+26-12-2025;Santiago;27186;615;laboral
+26-12-2025;MaipÅ“;40776;348;laboral
+26-12-2025;Puente Alto;11175;337;laboral
+26-12-2025;La Florida;36323;424;laboral
+26-12-2025;â€žuâ€“oa;42475;379;laboral
+27-12-2025;Las Condes;53292;449;sâ€¡bado
+27-12-2025;Santiago;17940;258;sâ€¡bado
+27-12-2025;MaipÅ“;58132;184;sâ€¡bado
+27-12-2025;Puente Alto;26876;616;sâ€¡bado
+27-12-2025;San Bernardo;12343;581;sâ€¡bado
+28-12-2025;Estaciâ€”n Central;50841;603;domingo
+28-12-2025;Santiago;7671;233;domingo
+28-12-2025;La Florida;32821;310;domingo
+28-12-2025;Puente Alto;57466;206;domingo
+28-12-2025;Independencia;55890;785;domingo
+29-12-2025;El bosque;37081;738;laboral
+29-12-2025;Cerronavia;28789;565;laboral
+29-12-2025;Espejo;44500;487;laboral
+29-12-2025;Maipu;37120;517;laboral
+29-12-2025;Vitacura;52069;207;laboral
+30-12-2025;San Ramâ€”n;58864;397;laboral
+30-12-2025;Santiago;33782;456;laboral
+30-12-2025;MaipÅ“;12582;630;laboral
+30-12-2025;Puente Alto;50200;292;laboral
+30-12-2025;La Florida;35076;206;laboral
+31-12-2025;â€žuâ€“oa;42177;359;laboral
+31-12-2025;Las Condes;16604;605;laboral
+31-12-2025;Santiago;47472;182;laboral
+31-12-2025;MaipÅ“;10276;183;laboral
+31-12-2025;Puente Alto;15524;746;laboral
+01-01-2026;La Florida;30781;584;laboral
+01-01-2026;â€žuâ€“oa;50319;332;laboral
+01-01-2026;Las Condes;18858;683;laboral
+01-01-2026;Santiago;38414;706;laboral
+01-01-2026;MaipÅ“;22314;504;laboral
+02-01-2026;Puente Alto;49584;577;laboral
+02-01-2026;San Bernardo;24131;494;laboral
+02-01-2026;Estaciâ€”n Central;24615;736;laboral
+02-01-2026;Santiago;10056;234;laboral
+02-01-2026;La Florida;38457;532;laboral
+03-01-2026;Puente Alto;20513;700;sâ€¡bado
+03-01-2026;Independencia;13084;759;sâ€¡bado
+03-01-2026;El bosque;44446;514;sâ€¡bado
+03-01-2026;Cerronavia;11484;261;sâ€¡bado
+03-01-2026;Espejo;15173;708;sâ€¡bado
+04-01-2026;Maipu;18966;497;domingo
+04-01-2026;Vitacura;22486;208;domingo
+04-01-2026;San Ramâ€”n;29432;730;domingo
+04-01-2026;Santiago;46817;618;domingo
+04-01-2026;MaipÅ“;36859;473;domingo
+05-01-2026;Puente Alto;48798;487;laboral
+05-01-2026;La Florida;28180;357;laboral
+05-01-2026;â€žuâ€“oa;27094;321;laboral
+05-01-2026;Las Condes;7052;414;laboral
+05-01-2026;Santiago;42244;417;laboral
+06-01-2026;MaipÅ“;40718;610;laboral
+06-01-2026;Puente Alto;50520;788;laboral
+06-01-2026;La Florida;47309;508;laboral
+06-01-2026;â€žuâ€“oa;27627;676;laboral
+06-01-2026;Las Condes;8533;568;laboral
+07-01-2026;Santiago;22866;728;laboral
+07-01-2026;MaipÅ“;9212;523;laboral
+07-01-2026;Puente Alto;28529;212;laboral
+07-01-2026;San Bernardo;11908;494;laboral
+07-01-2026;Estaciâ€”n Central;50365;559;laboral
+08-01-2026;Santiago;49902;279;laboral
+08-01-2026;La Florida;5897;725;laboral
+08-01-2026;Puente Alto;32165;316;laboral
+08-01-2026;Independencia;17353;721;laboral
+08-01-2026;El bosque;16980;565;laboral
+09-01-2026;Cerronavia;28798;664;laboral
+09-01-2026;Espejo;54733;380;laboral
+09-01-2026;Maipu;54092;629;laboral
+09-01-2026;Vitacura;58360;473;laboral
+09-01-2026;San Ramâ€”n;20176;194;laboral
+10-01-2026;Santiago;23719;178;sâ€¡bado
+10-01-2026;MaipÅ“;44694;632;sâ€¡bado
+10-01-2026;Puente Alto;48088;281;sâ€¡bado
+10-01-2026;La Florida;51748;358;sâ€¡bado
+10-01-2026;â€žuâ€“oa;32764;651;sâ€¡bado
+11-01-2026;Las Condes;24574;210;domingo
+11-01-2026;Santiago;10198;518;domingo
+11-01-2026;MaipÅ“;43061;772;domingo
+11-01-2026;Puente Alto;18500;584;domingo
+11-01-2026;La Florida;36954;572;domingo
+12-01-2026;â€žuâ€“oa;13456;762;laboral
+12-01-2026;Las Condes;41404;610;laboral
+12-01-2026;Santiago;31407;764;laboral
+12-01-2026;MaipÅ“;20381;258;laboral
+12-01-2026;Puente Alto;36318;523;laboral
+13-01-2026;San Bernardo;18879;331;laboral
+13-01-2026;Estaciâ€”n Central;39607;567;laboral
+13-01-2026;Santiago;7474;715;laboral
+13-01-2026;La Florida;16214;229;laboral
+13-01-2026;Puente Alto;50687;777;laboral
+14-01-2026;Independencia;19657;592;laboral
+14-01-2026;El bosque;16257;232;laboral
+14-01-2026;Cerronavia;17121;631;laboral
+14-01-2026;Espejo;52427;445;laboral
+14-01-2026;Maipu;39396;458;laboral
+15-01-2026;Vitacura;54003;527;laboral
+15-01-2026;San Ramâ€”n;27896;447;laboral
+15-01-2026;Santiago;14750;464;laboral
+15-01-2026;MaipÅ“;9072;586;laboral
+15-01-2026;Puente Alto;30768;673;laboral
+16-01-2026;La Florida;29402;523;laboral
+16-01-2026;â€žuâ€“oa;43813;356;laboral
+16-01-2026;Las Condes;18438;638;laboral
+16-01-2026;Santiago;14875;628;laboral
+16-01-2026;MaipÅ“;9564;321;laboral
+17-01-2026;Puente Alto;12642;333;sâ€¡bado
+17-01-2026;La Florida;17820;310;sâ€¡bado
+17-01-2026;â€žuâ€“oa;8891;376;sâ€¡bado
+17-01-2026;Las Condes;17864;664;sâ€¡bado
+17-01-2026;Santiago;59563;279;sâ€¡bado
+18-01-2026;MaipÅ“;46753;428;domingo
+18-01-2026;Puente Alto;34307;378;domingo
+18-01-2026;San Bernardo;58547;608;domingo
+18-01-2026;Estaciâ€”n Central;46902;792;domingo
+18-01-2026;Santiago;7329;639;domingo
+19-01-2026;La Florida;55810;600;laboral
+19-01-2026;Puente Alto;8428;702;laboral
+19-01-2026;Independencia;16723;343;laboral
+19-01-2026;El bosque;33182;756;laboral
+19-01-2026;Cerronavia;6446;699;laboral
+20-01-2026;Espejo;41468;277;laboral
+20-01-2026;Maipu;39027;543;laboral
+20-01-2026;Vitacura;51797;785;laboral
+20-01-2026;San Ramâ€”n;57176;321;laboral
+20-01-2026;Santiago;35724;620;laboral
+21-01-2026;MaipÅ“;15882;241;laboral
+21-01-2026;Puente Alto;49856;718;laboral
+21-01-2026;La Florida;23245;757;laboral
+21-01-2026;â€žuâ€“oa;42336;437;laboral
+21-01-2026;Las Condes;25333;579;laboral
+22-01-2026;Santiago;40562;229;laboral
+22-01-2026;MaipÅ“;54282;785;laboral
+22-01-2026;Puente Alto;32393;359;laboral
+22-01-2026;La Florida;50495;296;laboral
+22-01-2026;â€žuâ€“oa;41670;475;laboral
+23-01-2026;Las Condes;57644;323;laboral
+23-01-2026;Santiago;38471;529;laboral
+23-01-2026;MaipÅ“;8853;390;laboral
+23-01-2026;Puente Alto;12341;497;laboral
+23-01-2026;San Bernardo;25996;301;laboral
+24-01-2026;Estaciâ€”n Central;45147;159;sâ€¡bado
+24-01-2026;Santiago;59492;162;sâ€¡bado
+24-01-2026;La Florida;16089;290;sâ€¡bado
+24-01-2026;Puente Alto;20018;769;sâ€¡bado
+24-01-2026;Independencia;22416;489;sâ€¡bado
+25-01-2026;El bosque;41810;177;domingo
+25-01-2026;Cerronavia;50251;233;domingo
+25-01-2026;Espejo;12779;290;domingo
+25-01-2026;Maipu;27725;635;domingo
+25-01-2026;Vitacura;55263;433;domingo
+26-01-2026;San Ramâ€”n;9678;596;laboral
+26-01-2026;Santiago;27558;346;laboral
+26-01-2026;MaipÅ“;27108;188;laboral
+26-01-2026;Puente Alto;31458;619;laboral
+26-01-2026;La Florida;11635;403;laboral
+27-01-2026;â€žuâ€“oa;5873;671;laboral
+27-01-2026;Las Condes;34960;314;laboral
+27-01-2026;Santiago;44766;251;laboral
+27-01-2026;MaipÅ“;38670;767;laboral
+27-01-2026;Puente Alto;57995;752;laboral
+28-01-2026;La Florida;33463;490;laboral
+28-01-2026;â€žuâ€“oa;38002;432;laboral
+28-01-2026;Las Condes;52632;549;laboral
+28-01-2026;Santiago;58589;793;laboral
+28-01-2026;MaipÅ“;25438;194;laboral
+29-01-2026;Puente Alto;32916;553;laboral
+29-01-2026;San Bernardo;29820;687;laboral
+29-01-2026;Estaciâ€”n Central;54231;371;laboral
+29-01-2026;Santiago;10727;644;laboral
+29-01-2026;La Florida;43529;299;laboral
+30-01-2026;Puente Alto;47864;415;laboral
+30-01-2026;Independencia;25256;249;laboral
+30-01-2026;El bosque;46540;269;laboral
+30-01-2026;Cerronavia;34305;732;laboral
+30-01-2026;Espejo;12499;454;laboral
+31-01-2026;Maipu;29827;512;sâ€¡bado
+31-01-2026;Vitacura;41951;431;sâ€¡bado
+31-01-2026;San Ramâ€”n;18882;346;sâ€¡bado
+31-01-2026;Santiago;41523;374;sâ€¡bado
+31-01-2026;MaipÅ“;26130;241;sâ€¡bado
+01-02-2026;Puente Alto;36025;590;domingo
+01-02-2026;La Florida;13939;507;domingo
+01-02-2026;â€žuâ€“oa;32926;220;domingo
+01-02-2026;Las Condes;57863;306;domingo
+01-02-2026;Santiago;16876;187;domingo
+02-02-2026;MaipÅ“;56440;176;laboral
+02-02-2026;Puente Alto;25476;183;laboral
+02-02-2026;La Florida;59154;259;laboral
+02-02-2026;â€žuâ€“oa;34491;510;laboral
+02-02-2026;Las Condes;13180;451;laboral
+03-02-2026;Santiago;23676;732;laboral
+03-02-2026;MaipÅ“;40727;384;laboral
+03-02-2026;Puente Alto;55689;676;laboral
+03-02-2026;San Bernardo;45173;272;laboral
+03-02-2026;Estaciâ€”n Central;50429;750;laboral
+04-02-2026;Santiago;6052;297;laboral
+04-02-2026;La Florida;46147;453;laboral
+04-02-2026;Puente Alto;33668;779;laboral
+04-02-2026;Independencia;42841;162;laboral
+04-02-2026;El bosque;19797;703;laboral
+05-02-2026;Cerronavia;39678;563;laboral
+05-02-2026;Espejo;13595;463;laboral
+05-02-2026;Maipu;13238;475;laboral
+05-02-2026;Vitacura;47241;207;laboral
+05-02-2026;San Ramâ€”n;14000;466;laboral
+06-02-2026;Santiago;36381;631;laboral
+06-02-2026;MaipÅ“;31064;162;laboral
+06-02-2026;Puente Alto;23200;370;laboral
+06-02-2026;La Florida;59965;725;laboral
+06-02-2026;â€žuâ€“oa;29506;216;laboral
+07-02-2026;Las Condes;29586;492;sâ€¡bado
+07-02-2026;Santiago;13532;198;sâ€¡bado
+07-02-2026;MaipÅ“;52731;197;sâ€¡bado
+07-02-2026;Puente Alto;10231;375;sâ€¡bado
+07-02-2026;La Florida;45180;488;sâ€¡bado
+08-02-2026;â€žuâ€“oa;6238;397;domingo
+08-02-2026;Las Condes;44453;510;domingo
+08-02-2026;Santiago;8264;405;domingo
+08-02-2026;MaipÅ“;33804;581;domingo
+08-02-2026;Puente Alto;13764;198;domingo
+09-02-2026;San Bernardo;59356;314;laboral
+09-02-2026;Estaciâ€”n Central;48848;488;laboral
+09-02-2026;Santiago;24313;569;laboral
+09-02-2026;La Florida;42436;739;laboral
+09-02-2026;Puente Alto;8028;363;laboral
+10-02-2026;Independencia;56502;286;laboral
+10-02-2026;El bosque;49495;226;laboral
+10-02-2026;Cerronavia;45186;475;laboral
+10-02-2026;Espejo;52287;421;laboral
+10-02-2026;Maipu;8781;506;laboral
+11-02-2026;Vitacura;39335;251;laboral
+11-02-2026;San Ramâ€”n;29996;738;laboral
+11-02-2026;Santiago;47842;232;laboral
+11-02-2026;MaipÅ“;34161;466;laboral
+11-02-2026;Puente Alto;50037;525;laboral
+12-02-2026;La Florida;49247;220;laboral
+12-02-2026;â€žuâ€“oa;21608;178;laboral
+12-02-2026;Las Condes;8176;637;laboral
+12-02-2026;Santiago;8042;758;laboral
+12-02-2026;MaipÅ“;50265;552;laboral
+13-02-2026;Puente Alto;5882;663;laboral
+13-02-2026;La Florida;30644;441;laboral
+13-02-2026;â€žuâ€“oa;8255;697;laboral
+13-02-2026;Las Condes;27780;711;laboral
+13-02-2026;Santiago;54814;382;laboral
+14-02-2026;MaipÅ“;57630;771;sâ€¡bado
+14-02-2026;Puente Alto;48888;429;sâ€¡bado
+14-02-2026;San Bernardo;53321;261;sâ€¡bado
+14-02-2026;Estaciâ€”n Central;49639;310;sâ€¡bado
+14-02-2026;Santiago;13403;371;sâ€¡bado
+15-02-2026;La Florida;43823;628;domingo
+15-02-2026;Puente Alto;46259;222;domingo
+15-02-2026;Independencia;19747;677;domingo
+15-02-2026;El bosque;7791;595;domingo
+15-02-2026;Cerronavia;55968;597;domingo
+16-02-2026;Espejo;57014;381;laboral
+16-02-2026;Maipu;13128;546;laboral
+16-02-2026;Vitacura;8205;271;laboral
+16-02-2026;San Ramâ€”n;26474;470;laboral
+16-02-2026;Santiago;46440;216;laboral
+
