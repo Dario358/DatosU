@@ -1,0 +1,46 @@
+codigo_establecimiento,nombre,region,promedio_simce,matricula,fecha_medicion,tipo_establecimiento
+RBD10000,Liceo San José,COQUIMBO,255,651,05-04-2023,Municipal
+RBD10001,Liceo Diego Portales,metropolitana,223,341,2023/04/08,Municipal
+RBD10002,Escuela Diego Portales,Biobío,277,719,25/01/2023,Particular Subvencionado
+RBD10003,Instituto Salvador Allende,BIO BIO,239,590,04-06-2023,Municipal
+RBD10004,Instituto Gabriela Mistral,ARAUCANÍA,264,691,2023/01/24,Corporación
+RBD10005,Liceo Diego Portales,METROPOLITANA,95,750,20/11/2023,Particular Pagado
+RBD10006,Escuela Gabriela Mistral,metropolitana,304,616,03-05-2023,Particular Subvencionado
+RBD10007,Liceo Diego Portales,BIO BIO,278,897,2023/03/12,Particular Pagado
+RBD10008,Escuela Bernardo O'Higgins,coquimbo,307,296,21/10/2023,Particular Subvencionado
+RBD10009,Escuela Pablo Neruda,LOS LAGOS,268,702,23-11-2023,Particular Subvencionado
+RBD10009,Colegio San José,Biobío,224,796,2023/07/09,Municipal
+RBD10011,Escuela Salvador Allende,Bio Bio,303,1172,21/07/2023,Corporación
+RBD10012,Escuela Bernardo O'Higgins,valparaiso,251,688,19-12-2023,Corporación
+RBD10013,Instituto Salvador Allende,Biobío,237,1193,2023/08/03,Municipal
+RBD10014,Liceo Pablo Neruda,o'higgins,240,1014,03/10/2023,Corporación
+RBD10015,Instituto Manuel Rodríguez,MAULE,252,173,24-11-2023,Municipal
+RBD10016,Colegio Salvador Allende,Valparaíso,257,1040,2023/03/15,Municipal
+RBD10017,Colegio Pablo Neruda,MAULE,233,761,17/11/2023,Particular Subvencionado
+RBD10018,Escuela Salvador Allende,Antofagasta,150,151,11-10-2023,Corporación
+RBD10019,Liceo Gabriela Mistral,ATACAMA,266,779,2023/04/02,Particular Subvencionado
+RBD10020,Liceo Gabriela Mistral,COQUIMBO,282,291,25/09/2023,Particular Subvencionado
+RBD10021,Escuela Manuel Rodríguez,maule,241,692,28-09-2023,Corporación
+RBD10022,Escuela Arturo Prat,coquimbo,259,967,2023/11/21,Particular Pagado
+RBD10023,Instituto Manuel Rodríguez,Valparaíso,251,610,11/02/2023,Municipal
+RBD10024,Escuela Arturo Prat,Metropolitana,229,270,03-04-2023,Municipal
+RBD10024,Colegio Gabriela Mistral,MAULE,250,720,2023/11/16,Particular Subvencionado
+RBD10026,Escuela Manuel Rodríguez,Biobío,320,1118,07/07/2023,Municipal
+RBD10027,Liceo Diego Portales,ARAUCANÍA,274,991,28-08-2023,Municipal
+RBD10028,Liceo San José,Los Lagos,313,844,2023/02/08,Particular Subvencionado
+RBD10029,Escuela Manuel Rodríguez,valparaiso,274,525,15/05/2023,Particular Subvencionado
+RBD10030,Liceo Manuel Rodríguez,ANTOFAGASTA,290,350,21-01-2023,Municipal
+RBD10031,Liceo Arturo Prat,Valparaíso,272,1144,2023/08/07,Corporación
+RBD10032,Liceo Pablo Neruda,Los Lagos,150,949,26/05/2023,Corporación
+RBD10033,Colegio Diego Portales,coquimbo,313,1146,07-03-2023,Particular Pagado
+RBD10034,Escuela San José,O'Higgins,314,274,2023/12/11,Municipal
+RBD10035,Liceo Manuel Rodríguez,MAULE,287,472,17/01/2023,Municipal
+RBD10036,Escuela Gabriela Mistral,O'higgins,228,631,04-07-2023,Particular Subvencionado
+RBD10037,Liceo Gabriela Mistral,los lagos,304,797,2023/05/07,Particular Pagado
+RBD10037,Escuela Bernardo O'Higgins,Los Lagos,236,764,11/08/2023,Municipal
+RBD10039,Liceo Manuel Rodríguez,O'higgins,292,354,18-02-2023,Particular Subvencionado
+RBD10040,Colegio Pablo Neruda,ATACAMA,264,290,2023/04/12,Particular Pagado
+RBD10041,Escuela Manuel Rodríguez,antofagasta,289,769,26/10/2023,Municipal
+RBD10042,Colegio Gabriela Mistral,atacama,237,691,04-02-2023,Particular Subvencionado
+RBD10043,Colegio Bernardo O'Higgins,O'higgins,246,852,2023/04/22,Particular Pagado
+RBD10044,Instituto Bernardo O'Higgins,atacama,226,339,14/11/2023,Particular Pagado

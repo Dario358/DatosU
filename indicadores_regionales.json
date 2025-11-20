@@ -1,0 +1,72 @@
+[
+  {
+    "codigo_region": "RM",
+    "nombre_region": "Región Metropolitana",
+    "poblacion": 2998075,
+    "ingreso_promedio": null,
+    "indice_vulnerabilidad": 0.61
+  },
+  {
+    "codigo_region": "V",
+    "nombre_region": "Región de Valparaíso",
+    "poblacion": 1555447,
+    "ingreso_promedio": 587340,
+    "indice_vulnerabilidad": 0.59
+  },
+  {
+    "codigo_region": "VIII",
+    "nombre_region": "Región del Biobío",
+    "poblacion": 4905227,
+    "ingreso_promedio": 674231,
+    "indice_vulnerabilidad": 0.16
+  },
+  {
+    "codigo_region": "IX",
+    "nombre_region": "Región de La Araucanía",
+    "poblacion": 5996692,
+    "ingreso_promedio": null,
+    "indice_vulnerabilidad": 0.69
+  },
+  {
+    "codigo_region": "X",
+    "nombre_region": "Región de Los Lagos",
+    "poblacion": 5086444,
+    "ingreso_promedio": 643575,
+    "indice_vulnerabilidad": 0.48
+  },
+  {
+    "codigo_region": "VII",
+    "nombre_region": "Región del Maule",
+    "poblacion": 2785858,
+    "ingreso_promedio": 471930,
+    "indice_vulnerabilidad": 0.37
+  },
+  {
+    "codigo_region": "VI",
+    "nombre_region": "Región de O'Higgins",
+    "poblacion": 3201521,
+    "ingreso_promedio": 470916,
+    "indice_vulnerabilidad": 0.28
+  },
+  {
+    "codigo_region": "IV",
+    "nombre_region": "Región de Coquimbo",
+    "poblacion": 3166871,
+    "ingreso_promedio": 503893,
+    "indice_vulnerabilidad": 0.62
+  },
+  {
+    "codigo_region": "II",
+    "nombre_region": "Región de Antofagasta",
+    "poblacion": 5406486,
+    "ingreso_promedio": 663058,
+    "indice_vulnerabilidad": 0.6
+  },
+  {
+    "codigo_region": "III",
+    "nombre_region": "Región de Atacama",
+    "poblacion": 7452838,
+    "ingreso_promedio": 574118,
+    "indice_vulnerabilidad": 0.25
+  }
+]
